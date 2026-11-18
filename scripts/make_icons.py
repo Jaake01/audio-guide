@@ -4,7 +4,7 @@ import os
 from PIL import Image, ImageDraw
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RED, WHITE = (179, 38, 30), (255, 255, 255)
+RED, WHITE = (184, 64, 42), (255, 255, 255)
 
 
 def torii(size, pad):
