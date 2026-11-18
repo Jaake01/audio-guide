@@ -98,6 +98,14 @@
 - `verified`：我自己核對過內容後改成 `true`。App 上要顯示「已核對／未核對」標記。
 - 座標以維基百科或官網為準，不要估計。
 
+### 4.2.1 景點照片
+- 每個景點一張照片，用在清單縮圖、地圖卡片、播放器頂部、導覽分頁的地區卡片。
+- 來源：維基共享資源（Wikimedia Commons）上授權允許再使用的照片。每張都要記下**作者與授權**，在播放器裡顯示。
+- 出發前先下載、縮小（例如寬 800px 的 webp），放進 repo 讓 App 離線也能顯示。
+- 找不到合適照片的景點，就用純色底加圖示的佔位圖，不要隨便抓網路圖片。
+- 雲端環境的網路允許清單要多加：`commons.wikimedia.org`、`upload.wikimedia.org`。
+- `spots.json` 每筆多加：`"photo": "photos/<id>.webp"`、`"photo_credit": "作者 / 授權 / 原始網址"`。
+
 ### 4.3 語音（限制：**只用免費方案**）
 - 服務：**Gemini API 免費方案**，模型 `gemini-3.8-flash-tts`（用 Google AI Studio 產生的 API 金鑰）。
   - 不使用 Google Cloud Text-to-Speech、MiniMax 等需要付費的服務。
