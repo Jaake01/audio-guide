@@ -19,13 +19,23 @@ STYLE = (
 )
 
 
+# 一定要明講「用中文逐字念、不要翻譯」：只給英文指示時，長段落會被模型翻成英文念出來。
+PROMPT = (
+    "{style}\n\n"
+    "Read the Mandarin Chinese text below aloud, word for word, in Mandarin Chinese. "
+    "Do NOT translate it into English or any other language. Do not add, skip or summarize anything.\n"
+    "請用中文普通話，一字不漏地朗讀下面這段文字，不要翻譯成英文。\n\n"
+    "{text}"
+)
+
+
 def synthesize(text, voice, max_retries=8):
     key = os.environ.get("GEMINI_API_KEY")
     if not key:
         sys.exit("缺少環境變數 GEMINI_API_KEY")
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
     body = {
-        "contents": [{"parts": [{"text": f"{STYLE}\n\nRead the following aloud in that style:\n\n{text}"}]}],
+        "contents": [{"parts": [{"text": PROMPT.format(style=STYLE, text=text)}]}],
         "generationConfig": {
             "responseModalities": ["AUDIO"],
             "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voice}}},

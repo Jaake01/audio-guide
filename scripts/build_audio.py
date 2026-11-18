@@ -16,6 +16,8 @@ import argparse, json, os, subprocess, sys, time
 
 sys.path.insert(0, os.path.dirname(__file__))
 import tts  # noqa: E402
+import transcribe as tr  # noqa: E402
+import difflib, re  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SPOTS = os.path.join(ROOT, "data", "spots.json")
@@ -42,10 +44,37 @@ def synth_checked(text, voice, gap, tries=4):
         pcm = to_pcm(*tts.synthesize(text, voice))
         sec = len(pcm) / 2 / RATE
         if lo <= sec <= hi:
-            return pcm
+            ok, why = check_language(pcm, text)
+            if ok:
+                return pcm
+            print(f"    {why}，重做", flush=True)
+            time.sleep(gap)
+            continue
         print(f"    長度 {sec:.1f} 秒不合理（{n} 字，預期 {lo:.0f}–{hi:.0f} 秒），重做", flush=True)
         time.sleep(gap)
     sys.exit(f"重做 {tries} 次仍不合理，請檢查這段文字：{text[:30]}…")
+
+
+def check_language(pcm, text):
+    """把這段語音聽寫回來，確認念的是中文、而且和稿子大致一樣（模型有時會翻成英文念）。"""
+    wav = subprocess.run(["ffmpeg", "-loglevel", "error", "-f", "s16le", "-ar", str(RATE), "-ac", "1", "-i", "pipe:0",
+                          "-codec:a", "libmp3lame", "-b:a", "48k", "-f", "mp3", "pipe:1"],
+                         input=pcm, capture_output=True, check=True).stdout
+    try:
+        heard = tr.transcribe(wav)
+    except Exception as e:  # 聽寫服務暫時不能用：不擋住流程，但要提醒
+        print(f"    ⚠ 無法聽寫檢查（{e}），請自己聽一下這段", flush=True)
+        return True, ""
+    cjk = lambda x: "".join(re.findall(r"[\u4e00-\u9fff]", x))
+    a, b = cjk(text), cjk(heard)
+    if len(b) < len(a) * 0.5:
+        first = heard.strip().splitlines()[0][:40] if heard.strip() else ""
+        return False, f"聽起來不是中文（{first}）"
+    ratio = difflib.SequenceMatcher(None, a, b).ratio()
+    if ratio < 0.6:
+        return False, f"和稿子差太多（相似度 {ratio:.2f}）"
+    print(f"    ✓ 中文，相似度 {ratio:.2f}", flush=True)
+    return True, ""
 
 
 def save(spots):
