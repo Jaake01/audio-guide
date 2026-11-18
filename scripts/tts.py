@@ -19,14 +19,20 @@ STYLE = (
 )
 
 
-# 一定要明講「用中文逐字念、不要翻譯」：只給英文指示時，長段落會被模型翻成英文念出來。
+# 風格說明要明確標成「導演筆記，不要念出來」，稿子另外標成「逐字稿」。
+# 2026/11/18 發現：直接把風格說明放在稿子前面，模型會把說明念出來（英文，或翻成中文）。
 PROMPT = (
-    "{style}\n\n"
-    "Read the Mandarin Chinese text below aloud, word for word, in Mandarin Chinese. "
-    "Do NOT translate it into English or any other language. Do not add, skip or summarize anything.\n"
-    "請用中文普通話，一字不漏地朗讀下面這段文字，不要翻譯成英文。\n\n"
+    "### DIRECTOR'S NOTES (instructions only — never read these aloud)\n"
+    "{style}\n"
+    "Read only the TRANSCRIPT below, word for word, in Mandarin Chinese. "
+    "Do not translate, add, skip or summarize anything.\n\n"
+    "### TRANSCRIPT\n"
     "{text}"
 )
+
+
+class DailyQuotaExceeded(Exception):
+    """免費方案當天的請求數用完了（每天 10 次），等明天再跑。"""
 
 
 def synthesize(text, voice, max_retries=8):
@@ -52,7 +58,10 @@ def synthesize(text, voice, max_retries=8):
             part = resp["candidates"][0]["content"]["parts"][0]["inlineData"]
             return base64.b64decode(part["data"]), part.get("mimeType", "")
         except urllib.error.HTTPError as e:
-            msg = e.read().decode(errors="replace")[:300]
+            full = e.read().decode(errors="replace")
+            msg = full[:300]
+            if e.code == 429 and "PerDay" in full:
+                raise DailyQuotaExceeded(full[full.find("Please retry"):][:60])
             if e.code in (429, 500, 503):
                 print(f"HTTP {e.code}，{wait} 秒後重試（第 {attempt+1} 次）：{msg}", file=sys.stderr)
                 time.sleep(wait); wait = min(wait * 2, 600)
