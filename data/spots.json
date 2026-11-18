@@ -1,0 +1,114 @@
+[
+  {
+    "id": "test-a",
+    "name": "測試景點 A（假資料）",
+    "name_ja": "テストA",
+    "name_en": "Test Spot A",
+    "area": "test-taipei",
+    "days": [
+      "2027-01-20",
+      "2027-01-22"
+    ],
+    "type": "shrine",
+    "lat": 25.0478,
+    "lng": 121.517,
+    "summary": "骨架測試用的假資料，有史實、傳說、八卦三段。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "嗨，這裡是測試景點A。這一段是史實的位置，之後會換成真正查證過、附來源的故事。現在你只要確認，播放器有沒有正常出聲音就好。",
+        "sources": [
+          "https://example.com/history"
+        ],
+        "start": 0.0
+      },
+      {
+        "kind": "legend",
+        "text": "這是傳說段。正式內容裡，傳說都會直接講明據說、相傳。你可以試試看，按上面的段落按鈕，能不能直接跳到這一段。",
+        "sources": [
+          "https://example.com/legend"
+        ],
+        "start": 14.18
+      },
+      {
+        "kind": "gossip",
+        "text": "最後是八卦段。如果你聽得到這一句，代表跳段和連續播放都沒問題。好啦，測試完畢！",
+        "sources": [
+          "https://example.com/gossip"
+        ],
+        "start": 26.12
+      }
+    ],
+    "audio": "audio/test-a.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false,
+    "duration": 34.8
+  },
+  {
+    "id": "test-b",
+    "name": "測試景點 B（假資料）",
+    "name_ja": "テストB",
+    "name_en": "Test Spot B",
+    "area": "test-taipei",
+    "days": [
+      "2027-01-20"
+    ],
+    "type": "temple",
+    "lat": 25.0488,
+    "lng": 121.516,
+    "summary": "骨架測試用的假資料，只有史實和動漫典故兩段。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "這裡是測試景點B，離A很近，用來測試附近清單的距離排序。這個景點只有兩段，沒有傳說和八卦，所以那兩個按鈕不應該出現。",
+        "sources": [
+          "https://example.com/b"
+        ],
+        "start": 0.0
+      },
+      {
+        "kind": "anime",
+        "text": "這是動漫典故段。正式內容只會寫查得到來源的，例如官方聯名或聖地巡禮資料。",
+        "sources": [
+          "https://example.com/b-anime"
+        ],
+        "start": 14.3
+      }
+    ],
+    "audio": "audio/test-b.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": true,
+    "duration": 22.5
+  },
+  {
+    "id": "test-c",
+    "name": "測試景點 C（假資料）",
+    "name_ja": "テストC",
+    "name_en": "Test Spot C",
+    "area": "test-taipei",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "statue",
+    "lat": 25.051,
+    "lng": 121.517,
+    "summary": "骨架測試用的假資料，離 A 約 350 公尺，用來測試距離篩選。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "這裡是測試景點C，故意放在離A大約三百五十公尺的地方。如果你人在測試點A旁邊，這個景點不會出現在兩百公尺的清單裡。",
+        "sources": [
+          "https://example.com/c"
+        ],
+        "start": 0.0
+      }
+    ],
+    "audio": "audio/test-c.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false,
+    "duration": 11.9
+  }
+]
