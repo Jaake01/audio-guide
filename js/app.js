@@ -448,7 +448,7 @@
         <div class="p-photo" style="${sp.photo ? "" : "background:" + tint}">
           ${sp.photo ? `<img src="${esc(sp.photo)}" alt="${esc(sp.name)}">` : svg(t.icon, 40, 'stroke-width="1.4"')}
         </div>
-        ${sp.photo_credit ? `<div class="p-credit">照片：${esc(sp.photo_credit)}</div>` : ""}
+        ${sp.photo_credit ? `<div class="p-credit">照片：${creditHtml(sp.photo_credit)}</div>` : ""}
         <div>
           <div class="p-sub">${esc(sub)}</div>
           <h1>${esc(sp.name)}</h1>
@@ -489,6 +489,11 @@
     }));
     lastSec = -1;
     updatePlayerUi();
+  }
+  // 照片出處「作者 / 授權 / 原始網址」：網址顯示成連結
+  function creditHtml(c) {
+    return c.split(" / ").map((p) => /^https?:\/\//.test(p)
+      ? `<a href="${esc(p)}" target="_blank" rel="noopener">原始檔案</a>` : esc(p)).join(" / ");
   }
   // 來源連結顯示成比較好讀的名稱
   function srcLabel(u) {
