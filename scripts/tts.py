@@ -2,13 +2,14 @@
 """用 Gemini API（免費方案）把文字轉成 mp3。
 
 用法：
-  python3 scripts/tts.py --voice Leda --text-file input.txt --out out.mp3
+  python3 scripts/tts.py --text-file input.txt --out out.mp3
 金鑰從環境變數 GEMINI_API_KEY 讀取，不寫進任何檔案。
 需要 ffmpeg（把 PCM 轉成 mp3）。
 """
 import argparse, base64, json, os, subprocess, sys, time, urllib.error, urllib.request
 
 MODEL = "gemini-3.8-flash-tts"
+VOICE = "Zephyr"  # 規格 4.3 節選定的聲音，所有景點共用
 STYLE = (
     "A young woman in her early twenties with a sweet, bright voice. Casual and "
     "conversational, like chatting with a close friend or hosting a relaxed podcast "
@@ -62,7 +63,7 @@ def pcm_to_mp3(audio, mime, out):
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--voice", required=True)
+    ap.add_argument("--voice", default=VOICE)
     ap.add_argument("--text-file", required=True)
     ap.add_argument("--out", required=True)
     a = ap.parse_args()
