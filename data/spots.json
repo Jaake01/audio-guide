@@ -205,8 +205,8 @@
       }
     ],
     "audio": "audio/kawagoe-toki-no-kane.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-toki-no-kane.webp",
+    "photo_credit": "Fg2 / Public domain / https://commons.wikimedia.org/wiki/File:KawagoeTowerCommons.jpg",
     "verified": false,
     "duration": 162.3
   },
