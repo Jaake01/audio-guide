@@ -25,6 +25,8 @@ PROMPT = (
     "### DIRECTOR'S NOTES (instructions only — never read these aloud)\n"
     "{style}\n"
     "Read only the TRANSCRIPT below, word for word, in Mandarin Chinese. "
+    "Start immediately with the first word of the transcript and stop after its last word: "
+    "no introduction, no made-up dialogue, no closing remarks. "
     "Do not translate, add, skip or summarize anything.\n\n"
     "### TRANSCRIPT\n"
     "{text}"

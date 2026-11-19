@@ -52,6 +52,23 @@ def silences(pcm, min_len=0.35):
     return list(zip(starts, ends))
 
 
+def trim_lead(pcm, first_text):
+    """模型有時會在稿子前面自己編一段開場（例如假的聊天）。找到第一句真正開始的位置，
+    把前面多出來的部分剪掉。回傳 (剪過的 pcm, 剪掉幾秒)。"""
+    phrase = re.split(r"[。！？\n]", first_text.strip())[0][:20]
+    try:
+        t = tr.find_times(pcm_to_mp3(pcm, 48), [phrase])[0]
+    except Exception as e:
+        print(f"    ⚠ 無法確認開頭（{e}），請自己聽一下開頭", flush=True)
+        return pcm, 0.0
+    if t is None or t < 2:
+        return pcm, 0.0
+    before = [g for g in silences(pcm) if g[1] <= t + 1.0]
+    cut = max(before, key=lambda g: g[1])[1] - 0.15 if before else t - 0.3
+    cut = max(0.0, cut)
+    return pcm[int(cut * RATE) * 2:], cut
+
+
 def section_starts(sections, pcm):
     """找每段的開始秒數：先問模型每段第一句從哪裡開始，再對到最近的停頓；
     問不到時，依字數比例估計，再對到附近最長的停頓。"""
@@ -119,6 +136,10 @@ def build(spot, voice, gap, tries=3):
         if not lo <= sec <= hi:
             print(f"    長度 {sec:.0f} 秒不合理（預期 {lo:.0f}–{hi:.0f} 秒），重做", flush=True)
             continue
+        pcm, cut = trim_lead(pcm, spot["sections"][0]["text"])
+        if cut:
+            print(f"    開頭多了 {cut:.0f} 秒稿子以外的內容，已剪掉", flush=True)
+            sec = len(pcm) / 2 / RATE
         ok, why = check(pcm, text)
         print(f"    {why}", flush=True)
         if not ok:
