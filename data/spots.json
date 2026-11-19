@@ -29,7 +29,7 @@
           "https://www.mlit.go.jp/tagengo-db/en/R2-01192.html",
           "https://aumo.jp/articles/20093"
         ],
-        "start": 111.5
+        "start": 96.96
       },
       {
         "kind": "gossip",
@@ -41,14 +41,14 @@
           "https://www.walkerplus.com/article/1157478/",
           "https://toyokeizai.net/articles/-/256322"
         ],
-        "start": 212.37
+        "start": 184.67
       }
     ],
     "audio": "audio/kamakura-tsurugaoka-hachimangu.mp3",
     "photo": "photos/kamakura-tsurugaoka-hachimangu.webp",
     "photo_credit": "ulysses_powers / CC BY-SA 2.0（已縮小） / https://commons.wikimedia.org/wiki/File:TsurugaokaHachimangu_by_ulysses_powers_in_Kamakura.jpg",
     "verified": false,
-    "duration": 299.2
+    "duration": 260.2
   },
   {
     "id": "test-a",

@@ -41,6 +41,15 @@ def pcm_to_mp3(pcm, kbps=64):
                           input=pcm, capture_output=True, check=True).stdout
 
 
+def speed_up(pcm, tempo):
+    """加速但不改變音高（ffmpeg atempo）。"""
+    if abs(tempo - 1) < 1e-3:
+        return pcm
+    return subprocess.run(["ffmpeg", "-loglevel", "error", "-f", "s16le", "-ar", str(RATE), "-ac", "1", "-i", "pipe:0",
+                           "-af", f"atempo={tempo}", "-f", "s16le", "-ar", str(RATE), "-ac", "1", "pipe:1"],
+                          input=pcm, capture_output=True, check=True).stdout
+
+
 def silences(pcm, min_len=0.35):
     """回傳 [(開始秒, 結束秒)]：音檔裡的停頓。"""
     r = subprocess.run(["ffmpeg", "-loglevel", "info", "-f", "s16le", "-ar", str(RATE), "-ac", "1", "-i", "pipe:0",
@@ -144,6 +153,8 @@ def build(spot, voice, gap, tries=3):
         print(f"    {why}", flush=True)
         if not ok:
             continue
+        pcm = speed_up(pcm, tts.TEMPO)
+        sec = len(pcm) / 2 / RATE
         out = os.path.join(ROOT, spot["audio"])
         os.makedirs(os.path.dirname(out), exist_ok=True)
         open(out, "wb").write(pcm_to_mp3(pcm))
@@ -166,7 +177,7 @@ if __name__ == "__main__":
     spots = json.load(open(SPOTS, encoding="utf-8"))
     todo = [s for s in spots if (s["id"] in a.id if a.id else
                                  a.force or not os.path.exists(os.path.join(ROOT, s["audio"])))]
-    print(f"要做 {len(todo)} 個景點，聲音 {a.voice}（免費方案每天 10 次請求）")
+    print(f"要做 {len(todo)} 個景點，聲音 {a.voice}、加速 {tts.TEMPO} 倍（免費方案每天 10 次請求）")
     done = 0
     try:
         for i, s in enumerate(todo, 1):

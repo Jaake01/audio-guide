@@ -125,6 +125,7 @@
   - 免費方案有速率限制：批次生成時要加間隔、遇到 429 錯誤要等待後重試，可以分好幾天跑完。
 - 聲音：年輕女生，風格接近大陸 AI 語音（MiniMax／海螺那種）。聲音和風格說明如下：
   - 聲音：**Zephyr**（Gemini API 內建聲音，`prebuiltVoiceConfig.voiceName = "Zephyr"`；2026/11/18 試聽後選定，所有景點都用這個聲音）
+  - 語速：產生後再加速 **1.15 倍**（ffmpeg atempo，音高不變；2026/11/19 試聽 1.1／1.15／1.2 後選定）。App 播放器的 1.0×／1.25×／1.5× 是在這個基礎上再調。
   - 試聽檔：`samples/試聽-Zephyr.mp3`。轉檔腳本：`scripts/tts.py`（預設就用 Zephyr）
   - 風格說明（英文，已在 AI Studio 試聽確認）：
     > A young woman in her early twenties with a sweet, bright voice. Casual and conversational, like chatting with a close friend or hosting a relaxed podcast — not a news anchor or announcer. Warm, natural and lively, with everyday speech rhythm, light laughter in her voice, and relaxed, unhurried pacing. Speaks clear, standard Mandarin Chinese.

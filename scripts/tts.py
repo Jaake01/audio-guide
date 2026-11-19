@@ -10,6 +10,7 @@ import argparse, base64, json, os, subprocess, sys, time, urllib.error, urllib.r
 
 MODEL = "gemini-3.8-flash-tts"
 VOICE = "Zephyr"  # 規格 4.3 節選定的聲音，所有景點共用
+TEMPO = 1.15      # 產生後加速的倍率（音高不變），2026/11/19 試聽後選定
 STYLE = (
     "A young woman in her early twenties with a sweet, bright voice. Casual and "
     "conversational, like chatting with a close friend or hosting a relaxed podcast "
