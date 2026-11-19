@@ -379,7 +379,8 @@
         "text": "你現在來到的是三芳野神社。它在川越城蓋好之前就已經在這裡了。後來太田道真、太田道灌父子築川越城，這間神社就變成在城裡面，大家叫它「城裡的天神大人」。\n「三芳野」這個名字也很有來頭。平安時代的《伊勢物語》裡，提到「入間郡三芳野之里」，那就是川越的古地名。\n現在的社殿，是一六二四年川越藩主酒井忠勝奉第三代將軍德川家光的命令蓋的，隔年還請了天海大僧正來主持遷宮儀式。後來在一六五六年，又把江戶城二之丸東照宮的本殿搬過來，當成這裡的本殿。也就是說，你眼前的建築，有一部分原本是在江戶城裡面的。從那之後，它和喜多院、仙波東照宮一起，變成江戶幕府直接管理的神社。\n連家光的老師、大學者林羅山，都曾經在一六二六年來這裡，為生病的兒子祈求早日康復。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8A%B3%E9%87%8E%E7%A5%9E%E7%A4%BE"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -388,7 +389,8 @@
           "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8A%B3%E9%87%8E%E7%A5%9E%E7%A4%BE",
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E5%9F%8E",
           "https://tabi-mag.jp/sa0284/"
-        ]
+        ],
+        "start": 55.18
       },
       {
         "kind": "gossip",
@@ -396,13 +398,15 @@
         "sources": [
           "https://kuruma-news.jp/post/684047",
           "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8A%B3%E9%87%8E%E7%A5%9E%E7%A4%BE"
-        ]
+        ],
+        "start": 115.26
       }
     ],
     "audio": "audio/kawagoe-miyoshino-jinja.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 152.2
   },
   {
     "id": "kawagoe-castle-honmaru-goten",
