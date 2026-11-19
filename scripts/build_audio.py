@@ -70,10 +70,11 @@ def trim_lead(pcm, first_text):
     except Exception as e:
         print(f"    ⚠ 無法確認開頭（{e}），請自己聽一下開頭", flush=True)
         return pcm, 0.0
-    if t is None or t < 2:
+    if t is None or t < 0.6:
         return pcm, 0.0
-    before = [g for g in silences(pcm) if g[1] <= t + 1.0]
-    cut = max(before, key=lambda g: g[1])[1] - 0.15 if before else t - 0.3
+    # 取最接近第一句開頭的停頓；附近沒有停頓（亂講的內容直接接上第一句）就直接在第一句開頭剪
+    near = [g for g in silences(pcm, 0.15) if t - 1.2 <= g[1] <= t + 1.0]
+    cut = min(near, key=lambda g: abs(g[1] - t))[1] - 0.1 if near else t - 0.1
     cut = max(0.0, cut)
     return pcm[int(cut * RATE) * 2:], cut
 
