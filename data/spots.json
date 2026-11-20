@@ -572,27 +572,31 @@
         "text": "嗨，歡迎來到川越！你從川越車站出來，往北走的這條長長的商店街，就是クレアモール。它從車站幾乎筆直往北延伸大約一千兩百公尺，大部分的人都是走這條路進老街的。\n「クレアモール」這個名字，是英文「Create」創造，加上「Mall」步行街拼出來的。它其實是兩個商店街合起來的統一名字，分別是新富町商店街和サンロード商店街，兩邊到現在還是各自獨立的組織。\n這條路以前是連接川越車站和川越市公所的老路。本來川越的商業中心在一番街那一帶的老城區，可是一九六四年，丸廣百貨把本店搬到這條街上，這裡就快速變成川越新的商業中心。\n現在它是埼玉縣裡，僅次於大宮車站周邊的第二大鬧區。不管平日還是假日，這條商店街的人流量都是埼玉縣第一，從白天到深夜都有人在走。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%82%A2%E3%83%A2%E3%83%BC%E3%83%AB"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "這條街沒有什麼古老傳說，不過有一個很特別的東西，就在丸廣百貨的屋頂上：那裡供奉著一間小小的稻荷神社，叫民部稻荷。\n它原本在附近一座小山上，後來荒廢了，被移到川越八幡宮。結果不知道什麼時候，原來的地方又重建了一間。一九六四年丸廣百貨搬來的時候，就把它請到了百貨公司的屋頂上，一直到現在。百貨公司頂樓有神社，是不是很日本？等一下走到川越八幡宮，還會聽到這位民部稻荷的狐狸傳說喔。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E5%85%AB%E5%B9%A1%E5%AE%AE"
-        ]
+        ],
+        "start": 50.28
       },
       {
         "kind": "gossip",
         "text": "來點小八卦。日本很多城市的市中心這些年越來越冷清，但クレアモール是少數例外，還跟北邊的大正浪漫夢通、一番街、菓子屋橫丁一起，被選進「日本加油商店街七十七選」。\n整條街的電線都埋到地下了，人行道鋪的是御影石，而且跟店家之間完全沒有高低差，推嬰兒車或拉行李都很方便。中段還有一個小廣場叫「クレアパーク」，走累了可以在那邊休息一下。\n好啦，順著這條街一直往北走，就會慢慢進入川越的老街區了。我們邊走邊聊！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%82%A2%E3%83%A2%E3%83%BC%E3%83%AB"
-        ]
+        ],
+        "start": 78.72
       }
     ],
     "audio": "audio/kawagoe-crea-mall.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 109.1
   },
   {
     "id": "kawagoe-hachimangu",
@@ -613,27 +617,31 @@
         "text": "你現在來到的是川越八幡宮，它的歷史將近一千年。\n一〇三〇年，一位叫源賴信的武將，要去平定關東的平忠常之亂，就在這裡祈求勝利。打贏之後，為了感謝神明，就蓋了這間神社。後來一四五七年蓋川越城的時候，太田道灌還把這裡的神靈分一份請到城裡，當作城的守護神。二〇二一年，這裡剛辦完創建一千年的紀念活動。\n境內最有名的是那兩棵「夫婦銀杏」。它們是一九三三年，為了慶祝現在的上皇、也就是明仁天皇出生而種的。據說它們可以保佑良緣、夫妻圓滿，是這裡的神木。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E5%85%AB%E5%B9%A1%E5%AE%AE"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "這裡有一個很可愛的狐狸傳說，還上過日本的經典卡通《漫畫日本昔話》。\n從前從前，有一隻老狐狸變成武士的樣子，自稱「民部」。牠很想找人聊天，就跟一間寺廟的小和尚變成好朋友。住持覺得奇怪，就辦了一場宴會請牠來。民部狐狸帶著家臣來赴宴，跟住持聊得很開心，還讓家臣跟小和尚們比相撲，玩得不亦樂乎。\n結果隔天早上，寺廟院子裡到處都是狐狸毛，身分就這樣曝光了。住持去答謝的時候，民部狐狸知道被看穿了，就說自己要躲到川越的山裡去，臨走前還教了住持治療跌打損傷的方法。\n這位民部狐狸，後來就被供奉在這裡，叫「民部稻荷」，也叫「相撲稻荷」。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E5%85%AB%E5%B9%A1%E5%AE%AE"
-        ]
+        ],
+        "start": 42.01
       },
       {
         "kind": "gossip",
         "text": "因為民部狐狸跟相撲、跌打損傷有關，民部稻荷被認為可以保佑腳力、讓腿變強壯。所以現在很受跑者歡迎，連參加日本最有名的長跑接力賽「箱根驛傳」的選手都會來參拜。你走了一整天的路，也可以順便拜一下，保佑等一下腳不要痠。\n另外，這裡每年六月還會辦小朋友的相撲大會，二〇〇八年才恢復舉辦的。好啦，川越八幡宮就聊到這裡，記得去看看那兩棵夫婦銀杏喔！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E5%85%AB%E5%B9%A1%E5%AE%AE"
-        ]
+        ],
+        "start": 88.71
       }
     ],
     "audio": "audio/kawagoe-hachimangu.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 117.6
   },
   {
     "id": "kawagoe-kumano-jinja",
@@ -656,7 +664,8 @@
           "https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E7%A5%9E%E7%A4%BE_%28%E5%B7%9D%E8%B6%8A%E5%B8%82%29",
           "https://tabi-mag.jp/sa0297/",
           "https://www.gltjp.com/ja/directory/item/15155/"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -664,20 +673,23 @@
         "sources": [
           "https://tabi-mag.jp/sa0297/",
           "https://www.enjoytokyo.jp/article/200756/"
-        ]
+        ],
+        "start": 49.96
       },
       {
         "kind": "gossip",
         "text": "來個文藝一點的小發現。境內有一塊江戶時代狂歌師「元杢網」的歌碑，上面寫著：「山櫻開時像白雲，落時像飛雪，看花度日的春天，總是太短。」狂歌就是帶點幽默的和歌，這一首倒是滿有感觸的。\n好啦，熊野神社就聊到這裡。對面就是蓮馨寺，過個馬路就到了！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E7%A5%9E%E7%A4%BE_%28%E5%B7%9D%E8%B6%8A%E5%B8%82%29"
-        ]
+        ],
+        "start": 76.29
       }
     ],
     "audio": "audio/kawagoe-kumano-jinja.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 97.2
   },
   {
     "id": "kawagoe-renkeiji",
@@ -699,7 +711,8 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E8%93%AE%E9%A6%A8%E5%AF%BA",
           "https://tabi-mag.jp/sa0151"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -707,7 +720,8 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E8%93%AE%E9%A6%A8%E5%AF%BA",
           "https://tabi-mag.jp/sa0151"
-        ]
+        ],
+        "start": 37.92
       },
       {
         "kind": "gossip",
@@ -715,13 +729,15 @@
         "sources": [
           "https://tabi-mag.jp/sa0151",
           "https://www.gltjp.com/ja/directory/item/15154/"
-        ]
+        ],
+        "start": 63.95
       }
     ],
     "audio": "audio/kawagoe-renkeiji.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 86.2
   },
   {
     "id": "kawagoe-taisho-roman",
@@ -743,7 +759,8 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A3%E6%B5%AA%E6%BC%AB%E5%A4%A2%E9%80%9A%E3%82%8A",
           "https://www.guidoor.jp/places/1766"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -751,20 +768,23 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A3%E6%B5%AA%E6%BC%AB%E5%A4%A2%E9%80%9A%E3%82%8A",
           "https://www.walkerplus.com/spot/ar0311s600153/"
-        ]
+        ],
+        "start": 59.21
       },
       {
         "kind": "gossip",
         "text": "因為整條街的懷舊氣氛，這裡常被拿來拍電影、日劇和廣告。如果你覺得某個角度好像在哪部日劇看過，可能不是錯覺。\n另外一個冷知識：這條街一九五一年成立的「川越銀座商店街協同組合」，是埼玉縣第一個商店街的合作社。所以它不只是一條懷舊的街，也是埼玉商店街的老前輩。\n好啦，大正浪漫夢通就聊到這裡，記得找個角度拍張照！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A3%E6%B5%AA%E6%BC%AB%E5%A4%A2%E9%80%9A%E3%82%8A"
-        ]
+        ],
+        "start": 80.1
       }
     ],
     "audio": "audio/kawagoe-taisho-roman.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 106.4
   },
   {
     "id": "kawagoe-scala-za",
@@ -785,27 +805,31 @@
         "text": "你現在看到的這間小電影院，叫川越スカラ座，只有一百二十四個座位。它的歷史，比你想像的長很多。\n它的前身是一九〇五年，也就是明治時代開張的「寄席」，就是聽落語、看曲藝表演的地方，叫一力亭。後來名字改來改去，一九〇七年叫「おいで館」，一九二一年叫「川越演藝館」。到了一九四〇年，它重建成松竹電影公司的首映戲院「川越松竹館」，一九六三年才改成現在的名字「スカラ座」。\n它曾經是川越最具代表性的電影院之一。現在則變成「社區電影院」，主要放一些小眾的藝術電影，還常常請演員和導演來辦見面會、座談會，是在地人很愛的地方。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E3%82%B9%E3%82%AB%E3%83%A9%E5%BA%A7"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "這裡最有電影感的一件事，是二〇二一年上映的日本電影《電影之神》，就在這裡取景。\n你想想，一百多年前大家在這裡聽落語，後來看黑白電影，現在看藝術片，這棟建築見證了好幾個時代的娛樂。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E3%82%B9%E3%82%AB%E3%83%A9%E5%BA%A7"
-        ]
+        ],
+        "start": 48.48
       },
       {
         "kind": "gossip",
         "text": "如果你在旅行中有一點空檔，也可以看看今天放什麼片。雖然大多是日文發音，但在一間有百年歷史的小戲院看電影，本身就是很特別的體驗。\n好啦，スカラ座就聊到這裡。這附近就是菓子屋橫丁和一番街，繼續逛吧！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E3%82%B9%E3%82%AB%E3%83%A9%E5%BA%A7"
-        ]
+        ],
+        "start": 64.74
       }
     ],
     "audio": "audio/kawagoe-scala-za.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 82.1
   },
   {
     "id": "kawagoe-matsuri-kaikan",
@@ -828,7 +852,8 @@
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E3%81%BE%E3%81%A4%E3%82%8A%E4%BC%9A%E9%A4%A8",
           "https://ja.wikipedia.org/wiki/%E6%B0%B7%E5%B7%9D%E7%A5%9E%E7%A4%BE_%28%E5%B7%9D%E8%B6%8A%E5%B8%82%29",
           "https://tabi-mag.jp/kawagoematsuri/"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -836,20 +861,23 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E3%81%BE%E3%81%A4%E3%82%8A%E4%BC%9A%E9%A4%A8",
           "https://tabi-mag.jp/kawagoematsuri/"
-        ]
+        ],
+        "start": 48.78
       },
       {
         "kind": "gossip",
         "text": "一個省錢小撇步：這裡有一種叫「遊Five」的共通票，可以參觀川越祭會館、市立博物館、市立美術館、川越城本丸御殿，還有藏造資料館，比一間一間買便宜。如果你打算多看幾個地方，可以考慮一下。\n好啦，川越祭會館就聊到這裡。旁邊就是時之鐘和菓子屋橫丁，走幾步就到了！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E3%81%BE%E3%81%A4%E3%82%8A%E4%BC%9A%E9%A4%A8"
-        ]
+        ],
+        "start": 73.34
       }
     ],
     "audio": "audio/kawagoe-matsuri-kaikan.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 94.6
   },
   {
     "id": "kawagoe-resona-koedo-terrace",
@@ -870,26 +898,30 @@
         "text": "你在一整排黑黑的藏造老房子中間，突然看到這棟白色磚造、有八角形塔樓的西式建築，是不是很突兀？它就是りそなコエドテラス，原本是一間銀行。\n故事要從一八七八年說起。當時舊川越藩的御用商人一起出資，成立了埼玉縣第一家銀行，叫第八十五國立銀行，就在這個位置營業。一八九三年川越大火，舊的總行被燒掉了。現在這棟建築，是一九一八年，也就是大正七年重建的。\n設計師叫保岡勝也，他是設計東京車站的辰野金吾的學生。這棟建築用的是新文藝復興風格，北西角落有一座八角形的塔樓。它已經是國家的登錄有形文化財。\n後來銀行經過好幾次合併，一直以埼玉りそな銀行川越分行的身分營業到二〇二〇年。因為建築快一百年了，修繕費用太高，分行才搬到車站那邊去。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E3%82%8A%E3%81%9D%E3%81%AA%E3%82%B3%E3%82%A8%E3%83%89%E3%83%86%E3%83%A9%E3%82%B9"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "這棟建築最後沒有被拆掉，而是在二〇二四年五月，改成複合設施「りそなコエドテラス」重新開幕。\n一樓有冰淇淋店和咖啡店，最酷的是，原本銀行的金庫室，現在變成了藝廊。二樓是義大利餐廳，以前行長的辦公室，現在是餐廳的一部分。三樓則是可以工作的共享空間。在以前放錢的金庫裡看展覽，在行長辦公室裡吃義大利麵，是不是很有趣？",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E3%82%8A%E3%81%9D%E3%81%AA%E3%82%B3%E3%82%A8%E3%83%89%E3%83%86%E3%83%A9%E3%82%B9"
-        ]
+        ],
+        "start": 54.45
       },
       {
         "kind": "gossip",
         "text": "來點小八卦。在它還是銀行分行的時候，每天有兩百多人來這裡辦事，很多是附近的居民和伴手禮店的店員。分行搬走後，這裡的提款機還是留了下來，變成一個小小的「藏之街出張所」。\n保岡勝也在川越還設計了其他建築，像是舊山崎家別邸，有興趣的話也可以去看看。好啦，りそなコエドテラス就聊到這裡，進去吃個冰淇淋休息一下吧！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E3%82%8A%E3%81%9D%E3%81%AA%E3%82%B3%E3%82%A8%E3%83%89%E3%83%86%E3%83%A9%E3%82%B9"
-        ]
+        ],
+        "start": 80.99
       }
     ],
     "audio": "audio/kawagoe-resona-koedo-terrace.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 105.4
   }
 ]
