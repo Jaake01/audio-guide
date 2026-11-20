@@ -142,14 +142,14 @@ def build(spot, voice, gap, tries=3):
             time.sleep(gap)
         print(f"  第 {t + 1} 次（{n} 字）", flush=True)
         pcm = to_pcm(*tts.synthesize(text, voice))
+        # 先剪掉模型自己編的開場，再檢查長度（短稿子加上一分鐘的亂編開場，會被誤判成太長）
+        pcm, cut = trim_lead(pcm, spot["sections"][0]["text"])
+        if cut:
+            print(f"    開頭多了 {cut:.0f} 秒稿子以外的內容，已剪掉", flush=True)
         sec = len(pcm) / 2 / RATE
         if not lo <= sec <= hi:
             print(f"    長度 {sec:.0f} 秒不合理（預期 {lo:.0f}–{hi:.0f} 秒），重做", flush=True)
             continue
-        pcm, cut = trim_lead(pcm, spot["sections"][0]["text"])
-        if cut:
-            print(f"    開頭多了 {cut:.0f} 秒稿子以外的內容，已剪掉", flush=True)
-            sec = len(pcm) / 2 / RATE
         ok, why = check(pcm, text)
         print(f"    {why}", flush=True)
         if not ok:
