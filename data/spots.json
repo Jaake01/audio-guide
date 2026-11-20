@@ -306,8 +306,8 @@
       }
     ],
     "audio": "audio/kawagoe-kashiya-yokocho.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-kashiya-yokocho.webp",
+    "photo_credit": "dailytransit / CC BY-SA 2.0 / https://commons.wikimedia.org/wiki/File:Kashiya_yokocho.jpg",
     "verified": false,
     "duration": 124.7
   },
