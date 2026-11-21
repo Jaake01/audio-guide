@@ -943,7 +943,8 @@
         "text": "你現在來到的是養壽院，就在菓子屋橫丁的旁邊。其實菓子屋橫丁最早，就是這間寺廟的門前町。\n它是一二四四年，鎌倉時代由當地的武士河越氏的當主河越經重開基的。原本是密教的道場，一五三五年改成曹洞宗。德川家康來到關東的時候，還曾經在打獵途中來這裡休息，並賜給寺廟土地。\n本堂裡保存著一口一二六〇年的銅鐘，是國家的重要文化財。鐘上刻著「河肥」這兩個字，這是川越很古老的寫法，所以對研究川越的歷史非常珍貴。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E9%A4%8A%E5%AF%BF%E9%99%A2"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -952,20 +953,23 @@
           "https://ja.wikipedia.org/wiki/%E9%A4%8A%E5%AF%BF%E9%99%A2",
           "https://japanese-wiki-corpus.github.io/person/Satogozen.html",
           "https://serai.jp/hobby/1060999"
-        ]
+        ],
+        "start": 33.55
       },
       {
         "kind": "gossip",
         "text": "另外，這裡還有一位江戶時代的名人長眠，叫岩田彥助，是川越藩主秋元喬知手下有名的家老。\n逛完這裡，出門就是菓子屋橫丁。從一間鎌倉時代的寺廟，走進一條飄著糖果香的小巷，這種時空切換，也是川越好玩的地方。好啦，養壽院就聊到這裡！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E9%A4%8A%E5%AF%BF%E9%99%A2"
-        ]
+        ],
+        "start": 76.96
       }
     ],
     "audio": "audio/kawagoe-yojuin.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 96.4
   },
   {
     "id": "kawagoe-koedo-kurari",
@@ -986,7 +990,8 @@
         "text": "你現在來到的是「小江戶藏里」，正式名稱是川越市產業觀光館。這裡原本是一間酒廠，叫鏡山酒造，一八七五年，也就是明治八年創業，是川越市內撐到最後的一間酒廠。\n可惜二〇〇〇年，鏡山酒造還是歇業了。它留下了明治、大正、昭和三個時代蓋的酒藏，市民都希望把這些老建築留下來，於是川越市把土地和建築買下來，整修之後，在二〇一〇年十月開幕，變成介紹和販賣在地物產的地方。這些酒藏也是國家的登錄有形文化財。\n三棟酒藏各有用途：明治藏是伴手禮店，大正藏是餐廳，昭和藏則是試酒的地方。\n「藏里」這個名字，「藏」代表川越的藏造街景，「里」則是心靈故鄉的意思。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E5%B8%82%E7%94%A3%E6%A5%AD%E8%A6%B3%E5%85%89%E9%A4%A8"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -994,20 +999,23 @@
         "sources": [
           "https://aumo.jp/articles/43688",
           "https://matcha-jp.com/jp/6633"
-        ]
+        ],
+        "start": 49.97
       },
       {
         "kind": "gossip",
         "text": "一個小提醒：小江戶藏里就在本川越車站附近，走路大約三分鐘。所以很適合當作川越一日遊的起點或終點，回程前來這裡買伴手禮剛好。\n雖然鏡山酒造本身歇業了，但你在這裡還是可以喝到埼玉各地的酒，也算是酒廠的精神換一種方式延續下去。好啦，小江戶藏里就聊到這裡，喝酒的話記得適量喔！",
         "sources": [
           "https://aumo.jp/articles/43688"
-        ]
+        ],
+        "start": 79.34
       }
     ],
     "audio": "audio/kawagoe-koedo-kurari.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 102.0
   },
   {
     "id": "kawagoe-city-art-museum",
@@ -1028,7 +1036,8 @@
         "text": "你現在來到的是川越市立美術館，它蓋在川越城二之丸的遺址上，旁邊就是市立博物館。外觀也特意融入了川越藏造商家的設計，跟老街的風格很搭。\n這間美術館是二〇〇二年十二月一日開館的，是為了紀念川越市實施市制八十周年。那一天剛好是「川越市民日」。\n館裡的常設展，主要展示跟川越有關的畫家，像是川越出生的小村雪岱、小茂田青樹、相原求一朗，還有川越藩的畫家橋本雅邦。其中相原求一朗還有一間專屬的紀念室。到二〇一二年為止，收藏品將近兩千件。\n另外，企畫展示室每年會辦五次特展，市民畫廊則免費開放參觀。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E5%B8%82%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A8"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -1036,20 +1045,23 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E5%B8%82%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A8",
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E5%9F%8E"
-        ]
+        ],
+        "start": 46.33
       },
       {
         "kind": "gossip",
         "text": "如果你打算多看幾個地方，記得「遊Five」共通票，可以參觀美術館、博物館、本丸御殿、川越祭會館和藏造資料館，比一間一間買划算。\n好啦，川越市立美術館就聊到這裡。旁邊就是本丸御殿和三芳野神社，一起逛吧！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E3%81%BE%E3%81%A4%E3%82%8A%E4%BC%9A%E9%A4%A8"
-        ]
+        ],
+        "start": 67.41
       }
     ],
     "audio": "audio/kawagoe-city-art-museum.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 84.2
   },
   {
     "id": "kawagoe-semba-toshogu",
@@ -1071,7 +1083,8 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E4%BB%99%E6%B3%A2%E6%9D%B1%E7%85%A7%E5%AE%AE",
           "https://tabi-mag.jp/sa0141/"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -1079,20 +1092,23 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E4%BB%99%E6%B3%A2%E6%9D%B1%E7%85%A7%E5%AE%AE",
           "https://koutoku.ac.jp/toyooka/pdf/department/kiyou/r1/r1-10.pdf"
-        ]
+        ],
+        "start": 50.09
       },
       {
         "kind": "gossip",
         "text": "這裡藏著兩組大師級的畫作。拜殿裡的三十六歌仙繪額，是江戶初期很有名的畫家岩佐又兵衛畫的，已經是國家重要文化財。另外還有十二面老鷹的繪額，是狩野派大畫家狩野探幽的作品。\n仙波東照宮的位置在一個小山丘上，旁邊就是喜多院，走幾步就到了。好啦，仙波東照宮就聊到這裡！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E4%BB%99%E6%B3%A2%E6%9D%B1%E7%85%A7%E5%AE%AE"
-        ]
+        ],
+        "start": 77.73
       }
     ],
     "audio": "audio/kawagoe-semba-toshogu.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 98.2
   },
   {
     "id": "kawagoe-nakain",
@@ -1114,7 +1130,8 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%99%A2",
           "https://ja.wikipedia.org/wiki/%E5%96%9C%E5%A4%9A%E9%99%A2"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -1122,7 +1139,8 @@
         "sources": [
           "https://san-tatsu.jp/articles/18485/",
           "https://www.guidoor.jp/places/1753"
-        ]
+        ],
+        "start": 42.64
       },
       {
         "kind": "gossip",
@@ -1130,13 +1148,15 @@
         "sources": [
           "https://san-tatsu.jp/articles/18485/",
           "https://www.guidoor.jp/places/1753"
-        ]
+        ],
+        "start": 68.96
       }
     ],
     "audio": "audio/kawagoe-nakain.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 93.1
   },
   {
     "id": "kawagoe-hie-jinja",
@@ -1158,27 +1178,31 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9E%9D%E7%A5%9E%E7%A4%BE_%28%E5%B7%9D%E8%B6%8A%E5%B8%82%29",
           "https://tabi-mag.jp/sa0142/"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "這間神社最大的驚喜是：東京赤坂那間很有名的日枝神社，其實是從這裡分出去的！\n一四七八年，太田道灌蓋江戶城的時候，從這間川越日枝神社分靈過去，後來就成了赤坂日枝神社。連赤坂日枝神社自己也是這樣記載的。太田道灌就是蓋川越城的那個人，他把川越的神明帶到了江戶。所以說，這間小小的神社，算是東京大神社的「老家」。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9E%9D%E7%A5%9E%E7%A4%BE_%28%E5%B7%9D%E8%B6%8A%E5%B8%82%29"
-        ]
+        ],
+        "start": 36.68
       },
       {
         "kind": "gossip",
         "text": "這裡供奉的大山咋神，是以僧侶的樣子出現的，這在神社裡比較少見。\n日枝神社比較小，很多人經過喜多院都沒注意到它。現在你知道它是東京赤坂日枝神社的老家了，記得停下來拜一下。好啦，日枝神社就聊到這裡！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9E%9D%E7%A5%9E%E7%A4%BE_%28%E5%B7%9D%E8%B6%8A%E5%B8%82%29"
-        ]
+        ],
+        "start": 64.67
       }
     ],
     "audio": "audio/kawagoe-hie-jinja.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 80.6
   },
   {
     "id": "kawagoe-naritasan",
@@ -1199,27 +1223,31 @@
         "text": "你現在來到的是成田山川越別院，在地人叫它「川越不動」。它是千葉成田山新勝寺的別院，供奉不動明王。\n一八五三年，一位叫石川照溫的人，把已經荒廢的久保町本行院重新整修起來。到了一八七七年，正式改名成田山川越別院，這是成田山的第一間別院。\n它也是小江戶川越七福神的第四站，供奉的是保佑生意興隆的惠比壽。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%B1%B1%E5%B7%9D%E8%B6%8A%E5%88%A5%E9%99%A2%E6%9C%AC%E8%A1%8C%E9%99%A2"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "這裡最熱鬧的時候，是每個月二十八號的「蚤之市」，也就是古董市集。境內會擺滿各種古董和老東西，很熱鬧。如果你剛好在二十八號來川越，可以來逛逛，但你一月來的行程應該碰不到。\n另外每年十一月還有「火渡祭」，也就是柴燈護摩，也是很熱鬧的活動。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%B1%B1%E5%B7%9D%E8%B6%8A%E5%88%A5%E9%99%A2%E6%9C%AC%E8%A1%8C%E9%99%A2"
-        ]
+        ],
+        "start": 27.58
       },
       {
         "kind": "gossip",
         "text": "成田山新勝寺本山在千葉縣成田市。你這次在川越就能參拜到它的「分店」，而且還是第一間分店。\n這裡跟喜多院很近，可以排在一起逛。好啦，成田山川越別院就聊到這裡！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%B1%B1%E5%B7%9D%E8%B6%8A%E5%88%A5%E9%99%A2%E6%9C%AC%E8%A1%8C%E9%99%A2"
-        ]
+        ],
+        "start": 47.15
       }
     ],
     "audio": "audio/kawagoe-naritasan.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 60.3
   },
   {
     "id": "kawagoe-yaoko-museum",
@@ -1240,26 +1268,30 @@
         "text": "你現在來到的是ヤオコー川越美術館，也叫三栖右嗣紀念館，就在冰川神社北邊，面對新河岸川的櫻花步道。\nヤオコー是埼玉一家很大的超市連鎖。這間美術館展示的是跟埼玉很有緣的西畫家三栖右嗣的作品，一共收藏了一百五十一件油畫和版畫。其中還有他得到安井獎的名作《老去》的習作，正式的作品則收藏在東京國立近代美術館。\n這棟建築的設計師，是日本知名建築師伊東豊雄。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%AA%E3%82%B3%E3%83%BC%E5%B7%9D%E8%B6%8A%E7%BE%8E%E8%A1%93%E9%A4%A8"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "這棟建築有一個很用心的設計：展覽室會越往裡面走越明亮。\n為什麼呢？因為這裡展示的全都是三栖右嗣一個人的作品。他早期畫了很多比較內省、深沉的作品，後期的畫則越來越明亮。伊東豊雄不想讓所有作品都在一樣的燈光下展示，所以讓展覽室的光線，跟著畫家畫風的變化，一步步變亮。你走一圈，就像跟著畫家走過他的一生。\n牆面也做成和緩的弧形，整個空間感覺很柔和。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%AA%E3%82%B3%E3%83%BC%E5%B7%9D%E8%B6%8A%E7%BE%8E%E8%A1%93%E9%A4%A8"
-        ]
+        ],
+        "start": 29.03
       },
       {
         "kind": "gossip",
         "text": "這裡還有一個小驚喜：大廳裡放著一台平台鋼琴，因為這棟建築一開始就設計成可以辦音樂活動。\n而且伊東豊雄後來也幫ヤオコー設計了二〇一八年蓋好的總公司大樓。一間超市公司請建築大師蓋美術館，還蓋總部，是不是很有品味？好啦，ヤオコー川越美術館就聊到這裡，旁邊就是冰川神社喔！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%AA%E3%82%B3%E3%83%BC%E5%B7%9D%E8%B6%8A%E7%BE%8E%E8%A1%93%E9%A4%A8"
-        ]
+        ],
+        "start": 57.7
       }
     ],
     "audio": "audio/kawagoe-yaoko-museum.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 78.7
   }
 ]
