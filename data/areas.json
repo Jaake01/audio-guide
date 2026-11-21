@@ -1,0 +1,326 @@
+{
+  "_note": "地區清單（規格第 5 節與 3.6 節）。行程變動、新增國家或地區時只要改這個檔。countries → regions（都道府縣）→ areas（街區）。center / radius_m 在步驟 3 抓維基百科座標時填入，不要估計。",
+  "trip": {
+    "start": "2027-01-20",
+    "end": "2027-01-30"
+  },
+  "countries": [
+    {
+      "id": "jp",
+      "name": "日本",
+      "mark": "日"
+    },
+    {
+      "id": "tw-test",
+      "name": "台灣（測試）",
+      "mark": "台",
+      "note": "骨架測試用，正式內容做好後刪除"
+    }
+  ],
+  "regions": [
+    {
+      "id": "tokyo",
+      "country": "jp",
+      "name": "東京都"
+    },
+    {
+      "id": "kanagawa",
+      "country": "jp",
+      "name": "神奈川縣"
+    },
+    {
+      "id": "saitama",
+      "country": "jp",
+      "name": "埼玉縣"
+    },
+    {
+      "id": "nagano",
+      "country": "jp",
+      "name": "長野縣"
+    },
+    {
+      "id": "yamanashi",
+      "country": "jp",
+      "name": "山梨縣"
+    },
+    {
+      "id": "taipei",
+      "country": "tw-test",
+      "name": "台北市"
+    }
+  ],
+  "areas": [
+    {
+      "id": "ikebukuro",
+      "name": "池袋",
+      "region": "tokyo",
+      "days": [
+        "2027-01-20",
+        "2027-01-21"
+      ],
+      "center": null,
+      "radius_m": 800
+    },
+    {
+      "id": "kawagoe",
+      "name": "川越",
+      "region": "saitama",
+      "days": [
+        "2027-01-21"
+      ],
+      "center": {
+        "lat": 35.92,
+        "lng": 139.484
+      },
+      "radius_m": 2200,
+      "note": "一番街、菓子屋橫丁、川越城、喜多院、冰川神社一帶"
+    },
+    {
+      "id": "kamakura",
+      "name": "鎌倉",
+      "region": "kanagawa",
+      "note": "鶴岡八幡宮、小町通、長谷大佛一帶",
+      "days": [
+        "2027-01-22"
+      ],
+      "center": null,
+      "radius_m": 1000
+    },
+    {
+      "id": "enoshima",
+      "name": "江之島",
+      "region": "kanagawa",
+      "days": [
+        "2027-01-22"
+      ],
+      "center": null,
+      "radius_m": 800
+    },
+    {
+      "id": "tsukiji",
+      "name": "築地",
+      "region": "tokyo",
+      "note": "本願寺、場外市場",
+      "days": [
+        "2027-01-23"
+      ],
+      "center": null,
+      "radius_m": 600
+    },
+    {
+      "id": "hamarikyu",
+      "name": "濱離宮",
+      "region": "tokyo",
+      "days": [
+        "2027-01-23"
+      ],
+      "center": null,
+      "radius_m": 600
+    },
+    {
+      "id": "shimbashi",
+      "name": "新橋",
+      "region": "tokyo",
+      "days": [
+        "2027-01-23"
+      ],
+      "center": null,
+      "radius_m": 600
+    },
+    {
+      "id": "ningyocho",
+      "name": "人形町",
+      "region": "tokyo",
+      "note": "甘酒橫丁、水天宮、小網神社",
+      "days": [
+        "2027-01-23"
+      ],
+      "center": null,
+      "radius_m": 600
+    },
+    {
+      "id": "asakusa",
+      "name": "淺草",
+      "region": "tokyo",
+      "days": [
+        "2027-01-23"
+      ],
+      "center": null,
+      "radius_m": 800
+    },
+    {
+      "id": "ueno",
+      "name": "上野",
+      "region": "tokyo",
+      "days": [
+        "2027-01-23"
+      ],
+      "center": null,
+      "radius_m": 1000
+    },
+    {
+      "id": "kokyo",
+      "name": "皇居",
+      "region": "tokyo",
+      "days": [
+        "2027-01-24"
+      ],
+      "center": null,
+      "radius_m": 1000
+    },
+    {
+      "id": "kudanshita",
+      "name": "九段下",
+      "region": "tokyo",
+      "note": "含靖國神社",
+      "days": [
+        "2027-01-24"
+      ],
+      "center": null,
+      "radius_m": 700
+    },
+    {
+      "id": "tokyo-daijingu",
+      "name": "東京大神宮",
+      "region": "tokyo",
+      "days": [
+        "2027-01-24"
+      ],
+      "center": null,
+      "radius_m": 500
+    },
+    {
+      "id": "jimbocho",
+      "name": "神保町",
+      "region": "tokyo",
+      "days": [
+        "2027-01-24"
+      ],
+      "center": null,
+      "radius_m": 600
+    },
+    {
+      "id": "tokyo-dome",
+      "name": "東京巨蛋",
+      "region": "tokyo",
+      "days": [
+        "2027-01-24"
+      ],
+      "center": null,
+      "radius_m": 600
+    },
+    {
+      "id": "kawaguchiko",
+      "name": "河口湖",
+      "region": "yamanashi",
+      "note": "一日團，次要",
+      "days": [
+        "2027-01-25"
+      ],
+      "center": null,
+      "radius_m": 1000
+    },
+    {
+      "id": "setagaya",
+      "name": "世田谷",
+      "region": "tokyo",
+      "note": "松陰神社、豪德寺",
+      "days": [
+        "2027-01-26"
+      ],
+      "center": null,
+      "radius_m": 1000
+    },
+    {
+      "id": "shimokitazawa",
+      "name": "下北澤",
+      "region": "tokyo",
+      "days": [
+        "2027-01-26"
+      ],
+      "center": null,
+      "radius_m": 600
+    },
+    {
+      "id": "shibuya",
+      "name": "澀谷",
+      "region": "tokyo",
+      "days": [
+        "2027-01-26"
+      ],
+      "center": null,
+      "radius_m": 800
+    },
+    {
+      "id": "nakano",
+      "name": "中野",
+      "region": "tokyo",
+      "days": [
+        "2027-01-26"
+      ],
+      "center": null,
+      "radius_m": 600
+    },
+    {
+      "id": "karuizawa",
+      "name": "輕井澤",
+      "region": "nagano",
+      "note": "雲場池、舊輕銀座、高原教會、石之教會",
+      "days": [
+        "2027-01-27",
+        "2027-01-28",
+        "2027-01-29"
+      ],
+      "center": null,
+      "radius_m": 1000
+    },
+    {
+      "id": "kichijoji",
+      "name": "吉祥寺",
+      "region": "tokyo",
+      "note": "待決定",
+      "days": [],
+      "center": null,
+      "radius_m": 800
+    },
+    {
+      "id": "shibamata",
+      "name": "柴又",
+      "region": "tokyo",
+      "note": "待決定",
+      "days": [],
+      "center": null,
+      "radius_m": 600
+    },
+    {
+      "id": "kameari",
+      "name": "龜有",
+      "region": "tokyo",
+      "note": "待決定",
+      "days": [],
+      "center": null,
+      "radius_m": 600
+    },
+    {
+      "id": "todai",
+      "name": "東京大學",
+      "region": "tokyo",
+      "note": "待決定",
+      "days": [],
+      "center": null,
+      "radius_m": 600
+    },
+    {
+      "id": "test-taipei",
+      "name": "台北測試點（假資料）",
+      "region": "taipei",
+      "note": "步驟 2 骨架測試用，正式內容做好後刪除",
+      "days": [
+        "2027-01-20",
+        "2027-01-22"
+      ],
+      "center": null,
+      "radius_m": 1000
+    }
+  ]
+}
