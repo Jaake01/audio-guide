@@ -1293,5 +1293,723 @@
     "photo_credit": null,
     "verified": false,
     "duration": 78.7
+  },
+  {
+    "id": "kamakura-komachi-dori",
+    "name": "小町通",
+    "name_ja": "小町通り",
+    "name_en": "Komachi-dori",
+    "area": "kamakura",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "street",
+    "lat": 35.32153,
+    "lng": 139.55232,
+    "summary": "鎌倉站到鶴岡八幡宮的熱鬧商店街，一百多年前還是一片田。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在走的就是小町通，從鎌倉車站東口往北，一直延伸到鶴岡八幡宮附近，全長大約三百六十公尺，兩邊擠滿了吃的、伴手禮和雜貨店。\n不過你可能想不到，明治初年這裡還是一片田地，叫做「瀨戶耕地」，這條路只是一條農路。一八八九年橫須賀線通車、鎌倉車站開業之後，人潮和物流開始往這裡跑，才慢慢出現肉店、酒店、蔬菜店這些店家。\n一九二三年關東大地震，車站附近被火災波及，原本在別的地方的商家，很多集體搬到小町通這一帶。到了昭和初年，這裡變成支撐別墅住戶和移居者日常生活的商店街。一九五二年成立了商店會，現在它是鎌倉會員最多的商店會。\n有個小冷知識：鎌倉時代真正熱鬧的商業街，其實是若宮大路東側的「小町大路」，不是這條。現在這條小町通，是近代才發展起來的。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%BA%E9%80%9A%E3%82%8A"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "「小町通」這個名字怎麼來的？說法並不確定。有一種說法是，戰後這一帶被叫做「新小町」，名字就慢慢固定下來了。鎌倉市中央圖書館也查過，認為可能跟附近蛭子神社的信眾住在這裡、地名跟著變化有關，但到現在都還沒有定論。\n連當地圖書館都說不清楚的名字，是不是很有意思？",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%BA%E9%80%9A%E3%82%8A"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "來點吃的八卦。如果你想買伴手禮，鎌倉最有名的就是豐島屋的「鳩サブレー」，鴿子形狀的奶油餅乾。為什麼是鴿子？因為鶴岡八幡宮樓門匾額上的「八」字，畫的是兩隻面對面的鴿子。第一代老闆很崇敬八幡宮，大約一八九七年就把餅乾烤成鴿子的形狀。據說一開始根本賣不動，後來有小兒科醫生推薦它很適合給剛斷奶的小朋友吃，才慢慢紅起來。豐島屋本店就在車站附近，還有本店限定的鴿子鑰匙圈。\n好啦，小町通就聊到這裡，慢慢吃、慢慢逛吧！",
+        "sources": [
+          "https://rurubu.jp/andmore/article/24984",
+          "https://www.walkerplus.com/article/1157478/",
+          "https://www.mlit.go.jp/tagengo-db/common/001557290.pdf"
+        ]
+      }
+    ],
+    "audio": "audio/kamakura-komachi-dori.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "kamakura-enoden",
+    "name": "江之電",
+    "name_ja": "江ノ島電鉄",
+    "name_en": "Enoden (Enoshima Electric Railway)",
+    "area": "kamakura",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "other",
+    "lat": 35.3113056,
+    "lng": 139.5360278,
+    "summary": "一百多年的老電車，會從別人家門口和馬路中間開過去。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在搭的就是江之電，正式名稱叫江之島電鐵。它從鎌倉到藤澤，全長只有十公里，一共十五個車站，卻是很多人來鎌倉一定要搭的電車。\n它是一九〇二年，明治三十五年開業的，最早只有藤澤到片瀨，也就是現在的江之島站那一段。後來才一路延伸到鎌倉。在日本的民營電氣鐵道裡，它是現存第三古老的。\n江之電最早其實是以「路面電車」的身分開業的。後來因為戰時國防的考量等原因，改成了一般鐵道，但到現在還保留著跟汽車一起在馬路上跑的路段。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%83%8E%E5%B3%B6%E9%9B%BB%E9%89%84",
+          "https://www.nippon.com/ja/articles/-/57231"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "江之電有幾個很特別的地方，你可以注意看看。\n第一，它會從別人家的門口開過去。因為鋪設的時候路線改了好幾次，在住宅區裡繞來繞去，結果沿線出現了很多玄關直接面對鐵軌的房子。\n第二，從腰越站到江之島站之間，電車會開到馬路正中間，跟汽車走同一條路。像這樣在一般道路上跟汽車一起跑的鐵道，在日本算是唯一的。\n第三，在龍口寺前面有一個半徑只有二十八公尺的彎道，據說是一般電車路線裡全日本最小的彎。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%83%8E%E5%B3%B6%E9%9B%BB%E9%89%84",
+          "https://www.nippon.com/ja/articles/-/57231",
+          "https://www.cst.nihon-u.ac.jp/research/gakujutu/62/pdf/F2-52.pdf"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "江之電短短十公里，卻有超多種風景：老街、住宅區、海邊、馬路中間。等一下你在鎌倉高校前站下車，就會看到很有名的那個平交道。\n好啦，江之電就聊到這裡，好好享受這段車程吧！",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%83%8E%E5%B3%B6%E9%9B%BB%E9%89%84",
+          "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E9%AB%98%E6%A0%A1%E5%89%8D%E9%A7%85"
+        ]
+      }
+    ],
+    "audio": "audio/kamakura-enoden.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "kamakura-daibutsu",
+    "name": "鎌倉大佛（高德院）",
+    "name_ja": "鎌倉大仏（高徳院）",
+    "name_en": "Great Buddha of Kamakura (Kotoku-in)",
+    "area": "kamakura",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "temple",
+    "lat": 35.3167222,
+    "lng": 139.5361472,
+    "summary": "國寶阿彌陀佛，原本住在大殿裡，現在已經露天坐了五百多年。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你眼前這尊就是鎌倉大佛，是高德院的本尊，也是國寶。它是一尊銅造的阿彌陀如來坐像，高大約十一點四公尺，加上台座有十三公尺多，重大約一百二十一噸。光是耳朵就有一點九公尺長。\n根據鎌倉時代的史書《吾妻鏡》，一二五二年開始鑄造這尊銅造大佛。有趣的是，它到底是誰發起、誰出錢蓋的，到現在都不清楚，連開基和開山的人都不知道。\n你現在看到大佛坐在露天底下，但它原本其實是住在大佛殿裡面的。境內的考古挖掘，也確認了大佛殿真的存在過。根據記載，一三三五年和一三六九年，大佛殿都被強風吹倒過；以前也常聽說室町時代被海嘯沖毀，不過那場海嘯是哪一年，各種資料說法不一樣。總之，從那之後，大佛就一直露天坐到現在。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%BE%B3%E9%99%A2"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "這尊大佛的命運，其實滿坎坷的。\n一四八六年有一篇紀行文記載，當時大佛露天坐著，大佛的肚子裡，竟然有人大白天在賭博！到了江戶時代中期，大佛全身都是破洞，頭上的螺髮掉了很多，背後的門也沒了，鴿子和麻雀自由進出，在大佛裡面築巢、大便。\n後來是一位叫祐天的僧人，得到淺草商人野島新左衛門的捐款，跟養國上人一起修復大佛，這才救了回來。\n近代也經歷過考驗：一九二三年關東大地震，大佛的台座壞掉、下沉了一公尺。一九五九年開始的大修理，把台座改成了免震結構，讓大佛更能抵抗地震。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%BE%B3%E9%99%A2"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "來點文學八卦。境內有一塊與謝野晶子的歌碑，上面寫著：「鎌倉啊，雖然是佛，釋迦牟尼真是個美男子，在夏天的樹蔭下。」很浪漫對吧？但有個小問題：鎌倉大佛其實是阿彌陀如來，不是釋迦牟尼。連大文豪都會搞錯，是不是有點可愛？\n另外，你可以多付五十日圓，走進大佛的肚子裡看看。當年有人在裡面賭博、鳥在裡面築巢，現在你可以進去看看它的內部構造。好啦，鎌倉大佛就聊到這裡！",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%BE%B3%E9%99%A2"
+        ]
+      }
+    ],
+    "audio": "audio/kamakura-daibutsu.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "kamakura-hasedera",
+    "name": "長谷寺",
+    "name_ja": "長谷寺（鎌倉市）",
+    "name_en": "Hase-dera Temple",
+    "area": "kamakura",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "temple",
+    "lat": 35.312464,
+    "lng": 139.532995,
+    "summary": "日本最大級的木造觀音，傳說從海上漂來；還有洞窟和海景。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "歡迎來到長谷寺，大家也叫它「長谷觀音」。這裡的本尊是十一面觀世音菩薩，高九點一八公尺，是日本最大級的木造佛像之一。它也是坂東三十三觀音靈場的第四號札所。\n根據寺傳，長谷寺是七三六年開創的。不過要說清楚，中世以前的歷史有很多不明的地方，創建的確切時間和經過，其實沒有史料能確定。\n目前能證明它很早就存在的，是一口梵鐘。鐘上的銘文寫著，一二六四年由當時的住持發起募款鑄造。從這段文字可以知道，最晚在十三世紀後半，長谷寺就已經存在了，當時還叫做「新長谷寺」。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%95%B7%E8%B0%B7%E5%AF%BA_%28%E9%8E%8C%E5%80%89%E5%B8%82%29"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "長谷寺有一個很浪漫的傳說。\n據說七二一年，一位叫德道上人的僧人，在奈良的深山裡找到一棵很大的樟樹，用它雕了兩尊十一面觀音。其中一尊成為奈良長谷寺的本尊；另一尊，他祈禱之後放到海裡，讓它隨緣漂流。\n十五年後，這尊漂流的觀音，竟然漂到了三浦半島的長井海邊，後來就被安置在鎌倉，這就是長谷寺的開始。\n不過寺方自己也說，這是解釋由來的寺傳，不能直接當成史實。但你看著這尊巨大的觀音，想像它在海上漂了十五年，還是滿有畫面的。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%95%B7%E8%B0%B7%E5%AF%BA_%28%E9%8E%8C%E5%80%89%E5%B8%82%29"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "長谷寺有幾個好玩的小地方。\n一個是「弁天窟」，據說弘法大師在這裡祈禱過，洞窟的牆壁上刻滿了弁財天和十六童子。\n另一個是地藏。弁天堂前面有一尊圓滾滾臉的「和地藏」，很受歡迎；旁邊還有兩尊靠在一起的「良緣地藏」。網路上有人說，境內一共有三個地方有良緣地藏，全部找到就會遇到好姻緣，不過這是口耳相傳的說法，你就當尋寶遊戲玩玩。\n最後記得去見晴台，可以看到由比濱和相模灣。好啦，長谷寺就聊到這裡！",
+        "sources": [
+          "https://rurubu.jp/andmore/article/10133",
+          "https://co-trip.jp/post/426603",
+          "https://www.walkerplus.com/spot/ar0314s599011/"
+        ]
+      }
+    ],
+    "audio": "audio/kamakura-hasedera.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "kamakura-goryo-jinja",
+    "name": "御靈神社",
+    "name_ja": "御霊神社（鎌倉市）",
+    "name_en": "Goryo Shrine",
+    "area": "kamakura",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "shrine",
+    "lat": 35.3111111,
+    "lng": 139.5327778,
+    "summary": "江之電從鳥居前面開過的小神社，供奉一位中箭還繼續戰鬥的少年武士。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在來到的是御靈神社，在地人也叫它「權五郎神社」。這間神社什麼時候蓋的，其實不清楚，神奈川縣神社廳認為，可能平安時代末期就已經存在了。\n根據神社的由來，它原本供奉的是關東五個平氏武士家族的祖靈，分別是鎌倉氏、梶原氏、村岡氏、長尾氏、大庭氏。「五靈」的日文發音，跟「御靈」一樣，於是名字就慢慢變成了御靈神社。後來祭神集中成一位，就是鎌倉權五郎景政。\n景政是平安時代後期的武士，也是帶著鎌倉武士團開發湘南一帶的領主。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%BE%A1%E9%9C%8A%E7%A5%9E%E7%A4%BE_%28%E9%8E%8C%E5%80%89%E5%B8%82%29"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "景政有一個很熱血的故事。\n據說他十六歲的時候，跟著源義家參加後三年之役。攻打金澤柵的時候，敵人鳥海三郎一箭射中了他的右眼。結果景政沒有退下，反而帶著箭反擊，把對方打倒了。\n回到營地之後，有位戰友想幫他拔箭，竟然一腳踩在他的臉上用力拔。景政當場斥責了他，覺得這是對武士的侮辱。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%BE%A1%E9%9C%8A%E7%A5%9E%E7%A4%BE_%28%E9%8E%8C%E5%80%89%E5%B8%82%29"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "這間神社現在最有名的，是它的鳥居前面就是江之電的平交道。電車從鳥居前面開過去的畫面，在社群網站上很受歡迎，看起來就像鐵軌是參道的一部分。\n不過要注意：有網友分享，境內有一段時間全面禁止拍照，現場的規定可能會變，記得先看告示，在外面的公共空間拍就好。\n另外，每年九月十八日的例祭有「面掛行列」，大家戴著奇特的面具遊行，是神奈川縣的無形文化財。好啦，御靈神社就聊到這裡！",
+        "sources": [
+          "https://tabi-mag.jp/kn0370/",
+          "https://4travel.jp/dm_shisetsu/10001112",
+          "https://allabout.co.jp/gm/gc/446632/3/"
+        ]
+      }
+    ],
+    "audio": "audio/kamakura-goryo-jinja.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "kamakura-amanawa-shinmei",
+    "name": "甘繩神明神社",
+    "name_ja": "甘縄神明神社",
+    "name_en": "Amanawa Shinmei Shrine",
+    "area": "kamakura",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "shrine",
+    "lat": 35.3145,
+    "lng": 139.537,
+    "summary": "據說是鎌倉最古老的神社，源義家據說就是在這裡求來的。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在來到的是甘繩神明神社，據說是鎌倉市最古老的神社。它供奉的是天照大御神。\n根據一七一二年寫成的緣起，它是七一〇年由僧人行基開創的。後來一位叫染屋時忠的人，在神輿山上蓋了神明宮，山腳下蓋了寺院。\n它跟源氏的關係很深。一〇六三年源賴義、一〇八一年源義家都曾經整修過這間神社。鎌倉時代的史書《吾妻鏡》也記載，一一八六年正月，神社整修完成，源賴朝還帶著北條政子一起來參拜。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E7%94%98%E7%B8%84%E7%A5%9E%E6%98%8E%E7%A5%9E%E7%A4%BE"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "這裡有一個跟源氏有關的傳說。\n據說源賴義來到關東，娶了平直方的女兒之後，來這間神社祈求孩子，後來就生下了源義家，也就是後來很有名的「八幡太郎義家」。從那之後，這間神社就跟河內源氏一直有很深的淵源。\n你之前在鶴岡八幡宮聽過源賴義的名字，他就是把八幡神請到鎌倉的人。所以這間小神社，跟整個鎌倉源氏的故事，其實是連在一起的。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E7%94%98%E7%B8%84%E7%A5%9E%E6%98%8E%E7%A5%9E%E7%A4%BE"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "這間神社在長谷的住宅區裡，參道有一段石階。\n如果你從大佛走到長谷寺，可以稍微繞一下過來，感受一下鎌倉最古老神社的氣氛。好啦，甘繩神明神社就聊到這裡！",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E7%94%98%E7%B8%84%E7%A5%9E%E6%98%8E%E7%A5%9E%E7%A4%BE"
+        ]
+      }
+    ],
+    "audio": "audio/kamakura-amanawa-shinmei.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "kamakura-museum-of-literature",
+    "name": "鎌倉文學館",
+    "name_ja": "鎌倉文学館",
+    "name_en": "Kamakura Museum of Literature",
+    "area": "kamakura",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "building",
+    "lat": 35.3156,
+    "lng": 139.5389444,
+    "summary": "前田侯爵的西式別墅，展示三百多位和鎌倉有關的作家。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在來到的是鎌倉文學館，這棟建築本身就很有看頭。它是一九三六年，加賀前田家的侯爵前田利為改建的西式別墅，是「鎌倉三大洋館」之一。\n其實最早一八九〇年左右，前田家就在這裡蓋了別墅，可是一九一〇年被火燒掉了，後來才改建成現在這棟西洋式建築。\n戰後有一段時間，這裡曾經是丹麥公使、還有日本首相佐藤榮作的別墅。一九八三年，前田家把它捐給鎌倉市，一九八五年開幕成為文學館。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E6%96%87%E5%AD%A6%E9%A4%A8"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "為什麼鎌倉要蓋一間文學館？因為明治以後，很多作家都在鎌倉住過或待過，跟鎌倉有關的作家超過三百位，像是川端康成、夏目漱石、芥川龍之介、與謝野晶子。\n館裡的常設展，展示這些作家的親筆原稿、信件和愛用的物品。你剛剛在大佛那邊聽到與謝野晶子把大佛說成「美男子釋迦牟尼」的歌，在這裡也可以認識更多她和其他作家的故事。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E6%96%87%E5%AD%A6%E9%A4%A8"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "如果你對鎌倉的作家有興趣，可以進去看看。開館時間和休館日記得先查一下。好啦，鎌倉文學館就聊到這裡！",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E6%96%87%E5%AD%A6%E9%A4%A8"
+        ]
+      }
+    ],
+    "audio": "audio/kamakura-museum-of-literature.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "kamakura-koko-mae-crossing",
+    "name": "鎌倉高校前平交道",
+    "name_ja": "鎌倉高校前駅近くの踏切",
+    "name_en": "Kamakura-Kokomae Railroad Crossing",
+    "area": "kamakura",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "street",
+    "lat": 35.3066944,
+    "lng": 139.5005556,
+    "summary": "《灌籃高手》動畫片頭的場景，面對大海的小車站。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在來到的是鎌倉高校前站旁邊的平交道。這個車站一九〇三年開業，當時叫「日坂站」，一九五三年才改成現在的名字，因為坡道上面就是神奈川縣立鎌倉高中。\n它是一個很小的無人車站，月台前面就是一整片湘南的海。一九九七年，它被選進「關東車站百選」，理由就是：從月台望出去，整片都是湘南的海。天氣好的時候，還可以看到富士山、房總半島和伊豆大島。\n這裡也常被拿來拍日劇和廣告。「前面就是大海的小車站」這個畫面，已經變成很多人心目中「湘南」的代表風景。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E9%AB%98%E6%A0%A1%E5%89%8D%E9%A7%85"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "這個平交道最有名的，就是動畫《灌籃高手》的片頭，裡面就出現了這個場景。所以它變成了動漫迷的「聖地」，從中國、台灣等地來的年輕粉絲特別多。\n你站在這裡，等江之電慢慢開過來，背景是大海，是不是瞬間覺得自己變成櫻木花道了？",
+        "sources": [
+          "https://www.kanaloco.jp/news/government/article-988191.html",
+          "https://www.tokyo-sports.co.jp/articles/-/85400",
+          "https://www.gltjp.com/ja/directory/item/11211/"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "不過這裡也有一些麻煩事。因為來拍照的人太多，曾經有人站到車道上拍照、闖進私人住宅、亂丟垃圾，讓當地居民很困擾。所以鎌倉市從二〇一七年開始，在假日派警衛到現場，二〇二五年人潮多的時候，還把遊客引導到附近公園設置的拍照區。\n所以拍照的時候請記得：不要站在平交道裡面或車道上，在人行道上拍，聽警衛的指示，也不要進到學校和別人家。做個有禮貌的粉絲，這個地方才能一直留給大家。好啦，鎌倉高校前就聊到這裡！",
+        "sources": [
+          "https://www.kanaloco.jp/news/government/article-988191.html",
+          "https://www.kanaloco.jp/news/social/article-1211902.html",
+          "https://www.gltjp.com/ja/directory/item/11211/"
+        ]
+      }
+    ],
+    "audio": "audio/kamakura-koko-mae-crossing.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "enoshima-island",
+    "name": "江之島（上島）",
+    "name_ja": "江の島",
+    "name_en": "Enoshima Island",
+    "area": "enoshima",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "street",
+    "lat": 35.3036111,
+    "lng": 139.4819444,
+    "summary": "以前只有退潮才走得過去的島，關東大地震後才真正連上陸地。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在正在走過橋、準備登上江之島。這座島周圍大約四公里，是一座靠著大約六百公尺長的沙洲跟陸地連起來的「陸繫島」。\n很久以前，這條沙洲只有在退潮的時候才會露出來，大家只能等退潮走過去。後來一九二三年關東大地震，整個地面隆起，加上後來的建設，才變成現在這樣隨時都能走過去。島的東邊原本還有一座叫「聖天島」的小島，也是那次地震隆起之後，跟江之島連成一片。\n一九六四年東京奧運，江之島是帆船比賽的場地，那個時候也是觀光客最多的時期。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "江戶時代後期，江之島是江戶老百姓最愛的旅遊地之一。當時流行一條觀光路線：大山、江之島、鎌倉、金澤八景。表面上說是去參拜寺社，其實就是出來玩的。日本有一段落語叫《大山詣》，講的就是這種旅行。\n你走進島上的第一座鳥居，是青銅鳥居，最早是一七四七年建的，一八二一年重建。穿過它之後，就是兩邊都是店的弁財天仲見世通，一路往上走就到江島神社。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "一個很實用的提醒：江之島上的老鷹很多，牠們會突然從天上俯衝下來，搶觀光客手上的食物。這是因為以前有人餵牠們，牠們學會了從人手上拿東西吃。所以在島上邊走邊吃的時候，要小心頭頂喔！\n另外，你在仲見世通如果要買伴手禮，最好早點買，傍晚之後很多店就關了。好啦，我們上島吧！",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
+        ]
+      }
+    ],
+    "audio": "audio/enoshima-island.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "enoshima-jinja",
+    "name": "江島神社",
+    "name_ja": "江島神社",
+    "name_en": "Enoshima Shrine",
+    "area": "enoshima",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "shrine",
+    "lat": 35.3003611,
+    "lng": 139.4796111,
+    "summary": "日本三大弁財天之一，三座宮分散在島上，以前是一間寺。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在來到的是江島神社，它是「日本三大弁天」之一。神社其實分成三座宮，分散在島上：北邊的邊津宮、中間的中津宮，還有西邊的奧津宮，分別供奉三位女神，合起來叫「江島大神」。\n根據社傳，它的起源是五五二年，欽明天皇下令在島南邊的洞窟裡蓋宮。另外根據《吾妻鏡》，一一八二年源賴朝命令文覺上人，把弁財天請到島上的岩屋。\n你知道嗎？江島神社以前其實是一間寺，叫金龜山與願寺，供奉的是弁財天。江戶時代弁財天信仰很盛行，很多老百姓都來參拜。直到明治時代神佛分離，三重塔和很多佛像被破壞，它才改成現在的神社，原本的僧侶也全部改當神職人員。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B3%B6%E7%A5%9E%E7%A4%BE"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "江島神社和這座島，都跟一個龍的傳說有關。\n根據古老的《江島緣起》，從前有一隻有五個頭的龍，到處作惡。後來天上降下一位天女，創造了江之島。五頭龍愛上了天女，於是改邪歸正、開始做善事，最後跟天女結為夫妻。天女就是弁財天，而五頭龍後來化成了對岸的龍口山。\n邊津宮境內有一個「龍之錢洗」，就是從這個傳說來的，你可以在那裡用水洗錢，祈求財運。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B3%B6%E7%A5%9E%E7%A4%BE",
+          "https://smtrc.jp/town-archives/city/fujisawa/p02.html",
+          "https://co-trip.jp/article/637775"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "三座宮各有看點。邊津宮是一二〇六年源實朝創建的；中津宮的社殿是一六八九年改建的權現造；奧津宮的拜殿天花板，畫著江戶時代畫家酒井抱一的「八方睨之龜」，據說不管你從哪個角度看，烏龜都在盯著你，可以去試試看。\n邊津宮旁邊的奉安殿，供奉著八臂弁財天和妙音弁財天。好啦，江島神社就聊到這裡，慢慢往上爬吧！",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B3%B6%E7%A5%9E%E7%A4%BE"
+        ]
+      }
+    ],
+    "audio": "audio/enoshima-jinja.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "enoshima-escar",
+    "name": "江之島 Escar",
+    "name_ja": "江の島エスカー",
+    "name_en": "Enoshima Escar",
+    "area": "enoshima",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "other",
+    "lat": 35.3005,
+    "lng": 139.4804167,
+    "summary": "日本第一座戶外電扶梯，只能上不能下。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在要搭的是江之島 Escar，是一座戶外的付費電扶梯，從江島神社的石階入口，分四段一路到島的山頂，大約五分鐘就到了。\n它是一九五九年七月開通的，是日本第一座戶外電扶梯。為什麼要蓋？因為當年山頂的植物園和江島神社，都要爬很長的石階才到得了，很多觀光客爬到一半就放棄回頭了。當時經營江之電的五島慶太，認為光靠鐵路沒有發展性，推動公司進軍觀光業，這座電扶梯就是其中一項。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "「Escar」這個名字的由來，就是因為它是一座只能往上的電扶梯。\n你可能會發現，Escar 大部分都在隧道裡面，看不太到風景。其實一開始公司想蓋成露天的，可以邊搭邊看海，但因為要考慮景觀，跟反對興建的人妥協，最後才做成隧道式的。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "搭 Escar 可以省很多力氣，留著體力等一下去岩屋，那邊要上上下下很多樓梯。\n不過記得：Escar 只能上山，下山要自己走樓梯。好啦，搭上去吧！",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC"
+        ]
+      }
+    ],
+    "audio": "audio/enoshima-escar.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "enoshima-kodama-jinja",
+    "name": "兒玉神社",
+    "name_ja": "児玉神社（藤沢市）",
+    "name_en": "Kodama Shrine",
+    "area": "enoshima",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "shrine",
+    "lat": 35.3006111,
+    "lng": 139.4810833,
+    "summary": "供奉日俄戰爭名將兒玉源太郎，狛犬是台灣人送的。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在來到的是兒玉神社，供奉的是明治時代的軍人兒玉源太郎。他在日俄戰爭時非常活躍，也當過台灣總督。神社是一九一八年創建的。\n為什麼要在江之島供奉他？根據一九二一年的報紙記載，日俄戰爭快開打的時候，當時擔任參謀次長的兒玉，每個星期天都會去鎌倉的別墅休養。可是想找他的人一直跑到鎌倉，他只好偷偷躲到江之島的山裡，靜靜思考局勢。\n沒想到連江之島都開始有陸軍的大人物跑來找他，島上的居民覺得奇怪，才知道原來是兒玉大將。島民很感念他，所以在他過世之後，買下他當年休養的地方來祭祀他。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%85%90%E7%8E%89%E7%A5%9E%E7%A4%BE_%28%E8%97%A4%E6%B2%A2%E5%B8%82%29"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "這間神社跟台灣有一段特別的緣分。境內有一對很有名的狛犬，嘴裡含著的石球可以轉動，是做工很精巧的名品。\n這對狛犬，是因為兒玉源太郎當年擔任台灣總督、推動台灣的近代化，台灣的有志之士為了這段緣分送來的。你從台灣來，看到這對狛犬，是不是覺得很特別？",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%85%90%E7%8E%89%E7%A5%9E%E7%A4%BE_%28%E8%97%A4%E6%B2%A2%E5%B8%82%29"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "兒玉神社在江島神社邊津宮旁邊，人比較少。如果你對這段歷史有興趣，可以進去看看那對狛犬嘴裡的石球。好啦，兒玉神社就聊到這裡！",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%85%90%E7%8E%89%E7%A5%9E%E7%A4%BE_%28%E8%97%A4%E6%B2%A2%E5%B8%82%29"
+        ]
+      }
+    ],
+    "audio": "audio/enoshima-kodama-jinja.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "enoshima-iwamotoro",
+    "name": "岩本樓",
+    "name_ja": "岩本楼",
+    "name_en": "Iwamotoro Ryokan",
+    "area": "enoshima",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "building",
+    "lat": 35.3013333,
+    "lng": 139.4802222,
+    "summary": "從鎌倉時代就存在的寺院宿坊，變成了老字號旅館，還有羅馬浴池。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在經過的是岩本樓，是江之島上的老字號旅館。它的前身，是江島神社還是寺廟時代，負責管理寺務的「岩本院」，歷史可以追溯到鎌倉時代。\n以前江之島上有三個管理寺務的坊，岩本院後來把另外兩個都收編了，變成管理全島的「總別當」，掌握整座島的權益。\n江戶時代中期以後，江之島變成從江戶就能輕鬆去的觀光地，岩本院也當作讓參拜者住宿的地方，生意很好。明治時代神佛分離，寺院被廢，一八七四年岩本院就改名「岩本樓」，正式變成旅館。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%9C%AC%E6%A5%BC",
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B3%B6%E7%A5%9E%E7%A4%BE"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "這裡跟歌舞伎有一段淵源。一八六二年首演的歌舞伎《白浪五人男》裡，有一個很有名的角色叫「弁天小僧」。據說這個角色，就是以岩本院的稚兒，也就是寺院裡的少年為原型。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%9C%AC%E6%A5%BC"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "岩本樓有一個很特別的浴池，叫「羅馬浴池」，是一九三〇年蓋的西式浴池，二〇〇一年還被登錄為國家的有形文化財。另外還有模仿江之島岩屋的「弁天洞窟浴池」。\n在一座以神社聞名的島上，有一間羅馬風格的浴池，是不是有點反差？好啦，岩本樓就聊到這裡！",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%9C%AC%E6%A5%BC"
+        ]
+      }
+    ],
+    "audio": "audio/enoshima-iwamotoro.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "enoshima-iwaya",
+    "name": "江之島岩屋",
+    "name_ja": "江の島岩屋",
+    "name_en": "Enoshima Iwaya Caves",
+    "area": "enoshima",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "other",
+    "lat": 35.298787,
+    "lng": 139.474439,
+    "summary": "海浪侵蝕出來的洞窟，從奈良時代就是修行的聖地。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在來到的是江之島岩屋，這是海浪長年侵蝕出來的洞窟。江之島四周都是海蝕斷崖，加上這個洞窟，讓江之島自古以來就是宗教修行的地方。\n據說七〇〇年，修驗道的開山祖師役小角就曾經在這個岩屋裡閉關修行，從那之後，整座島都被當成聖地。之後平安時代的空海、圓仁也都有在這裡修行的傳說。\n江島神社的起源也跟這裡有關。社傳說，五五二年欽明天皇下令在島南邊的洞窟裡蓋宮；《吾妻鏡》也記載，一一八二年源賴朝命令文覺上人，把弁財天請到這個岩屋裡。也就是說，這裡算是江島神社的發源地。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6",
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B3%B6%E7%A5%9E%E7%A4%BE"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "江戶時代，這個岩屋是江之島參拜的重點。從一七六一年開始，每七年會公開一次岩屋裡的弁財天，吸引很多人來。浮世繪畫家歌川廣重也畫過「江之島岩屋」，畫的是關東大地震以前的樣子。\n據說一五五一年，戰國武將北條綱成還下令，禁止在岩屋裡殺鴿子。可見從以前開始，這裡就是要保持清淨的神聖地方。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "小提醒：一九七一年，岩屋發生過落石事故，所以現在海浪大或颱風的時候會關閉，冬天的開放時間也可能比較短，進去之前記得確認一下。\n洞窟裡面很暗，走在裡面很有探險的感覺。好啦，江之島岩屋就聊到這裡，出來之後就是稚兒之淵，準備看夕陽吧！",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
+        ]
+      }
+    ],
+    "audio": "audio/enoshima-iwaya.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "enoshima-chigogafuchi",
+    "name": "稚兒之淵",
+    "name_ja": "稚児ヶ淵",
+    "name_en": "Chigogafuchi",
+    "area": "enoshima",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "other",
+    "lat": 35.298787,
+    "lng": 139.474439,
+    "summary": "看夕陽沉到富士山後面的岩台，名字來自一段悲傷的戀愛傳說。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在站在稚兒之淵。這片平平的岩台，其實是地震把海底抬起來形成的。一九二三年的關東大地震，讓這一帶又隆起了大約一公尺，才變成現在這樣的地形。\n這裡最有名的是夕陽。晴天的傍晚，太陽會沉到富士山後面，是湘南很經典的風景。",
+        "sources": [
+          "https://tabi-mag.jp/kn0441/",
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "「稚兒之淵」這個名字，來自一段悲傷的戀愛傳說。\n據說鎌倉建長寺有一位叫自休的僧人，到江之島弁財天參拜一百天的時候，愛上了相承院的稚兒，也就是寺院裡的少年，名字叫白菊。可是這段感情沒有結果，白菊最後從這裡跳進了淵裡。後來大家就把這裡叫做「稚兒之淵」。\n這個故事在一六五九年的《鎌倉物語》裡就有記載，江戶時代後期還被改編成歌舞伎。不過各種資料裡，人名和寺名的寫法都不太一樣，它是傳說，不是史實。",
+        "sources": [
+          "https://tabi-mag.jp/kn0441/",
+          "https://smtrc.jp/town-archives/city/fujisawa/p02.html"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "兩個重要提醒。\n第一，浪大的時候，海水會打上岩台，不要站得太靠海邊。\n第二，這裡的老鷹很多，網路上和島上都有提醒，牠們會從天上俯衝下來搶遊客手上的食物。如果你帶了東西在這裡吃，一定要小心。\n看完夕陽，天色暗了，記得用手機照明，沿著樓梯慢慢爬回山頂。好啦，稚兒之淵就聊到這裡，好好看夕陽吧！",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
+        ]
+      }
+    ],
+    "audio": "audio/enoshima-chigogafuchi.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "enoshima-ryuren-no-kane",
+    "name": "龍戀之鐘",
+    "name_ja": "龍恋の鐘（恋人の丘）",
+    "name_en": "Ryuren no Kane (Lovers' Hill)",
+    "area": "enoshima",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "other",
+    "lat": 35.298803,
+    "lng": 139.476928,
+    "summary": "敲響就不會分手的戀人之鐘，來自五頭龍和天女的愛情傳說。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在來到的是「戀人之丘」，從江島神社奧津宮前面往旁邊走就到了。斷崖邊掛著一座鐘，叫「龍戀之鐘」，據說情侶一起敲響它，就不會分開，所以很受情侶歡迎。\n旁邊的鐵絲網上，掛滿了情侶們的愛情鎖，你可以看看有沒有中文的。",
+        "sources": [
+          "https://tabi-mag.jp/kn0108/"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "這座鐘的名字，來自江之島最有名的傳說：五頭龍和天女。\n根據《江島緣起》，從前有一隻五個頭的龍，到處作惡，讓人們很痛苦。後來天女從天而降，創造了江之島。五頭龍對天女一見鍾情，為了她下定決心改過，從此做善事，最後終於跟天女結為夫妻。\n天女就是弁財天，五頭龍後來化成了對岸的龍口山，一直守護著這片土地。一隻壞龍為了愛情變好，是不是很浪漫？",
+        "sources": [
+          "https://smtrc.jp/town-archives/city/fujisawa/p02.html",
+          "https://co-trip.jp/article/637775"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "不過要說清楚，這個傳說的細節，在不同版本的《江島緣起》和介紹文章裡都不太一樣，你聽到別人講的版本可能會有點出入。\n如果你是一個人來，也可以敲一下鐘，祈求好姻緣。好啦，龍戀之鐘就聊到這裡，往山頂走，就是 Samuel Cocking 苑和展望燈塔了！",
+        "sources": [
+          "https://www.waseda.jp/flas/rilas/assets/uploads/2022/10/488-475_Ami-TANAKA.pdf"
+        ]
+      }
+    ],
+    "audio": "audio/enoshima-ryuren-no-kane.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
+  },
+  {
+    "id": "enoshima-samuel-cocking-garden",
+    "name": "Samuel Cocking 苑・Sea Candle",
+    "name_ja": "江の島サムエル・コッキング苑・江の島シーキャンドル",
+    "name_en": "Samuel Cocking Garden & Enoshima Sea Candle",
+    "area": "enoshima",
+    "days": [
+      "2027-01-22"
+    ],
+    "type": "other",
+    "lat": 35.2997222,
+    "lng": 139.4783333,
+    "summary": "英國商人蓋的植物園遺址，和用降落傘塔改建而成的燈塔。",
+    "sections": [
+      {
+        "kind": "history",
+        "text": "你現在來到的是江之島 Samuel Cocking 苑。它的名字，來自一位住在橫濱的愛爾蘭貿易商，Samuel Cocking。\n一八八〇年，他買下了江島神社還是寺廟時代的菜園，大約三千八百坪，兩年後的一八八二年開了植物園，是日本第三古老的植物園。後來因為時代變遷和一九二三年關東大地震，植物園荒廢了。\n有一個很有意思的發現：一九四九年整修植物園的時候，舊溫室的遺跡被埋到地下，一直到二〇〇二年再次整修才重新被挖出來，現在已經整理好開放參觀。那些紅磚上，還能看到很多「橫濱煉化製造會社」的刻印。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6%E3%82%B5%E3%83%A0%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B3%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E8%8B%91"
+        ]
+      },
+      {
+        "kind": "legend",
+        "text": "苑裡那座高高的燈塔，就是「江之島 Sea Candle」。它其實是日本第一座民間燈塔。\n第一代燈塔是一九五一年蓋的，材料很特別：它是把戰前二子玉川遊樂園裡的「讀賣大降落傘塔」拆掉之後，拿那些材料蓋起來的，剛開始還叫「讀賣和平塔」。現在這座是二〇〇三年蓋的第二代，「Sea Candle」這個暱稱是公開徵選來的，因為它的形狀就像一根海上的蠟燭。",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6%E7%81%AF%E5%8F%B0"
+        ]
+      },
+      {
+        "kind": "gossip",
+        "text": "冬天這裡會舉辦「湘南的寶石」燈飾活動，整個苑和燈塔都會亮起來，很漂亮。山頂風很大，記得戴帽子和手套。\n還有一個小八卦：苑裡有一家「LON CAFE」，據說是日本第一間法式吐司專賣店。看完燈飾冷到不行，進去吃一份熱熱的法式吐司，剛剛好。好啦，Samuel Cocking 苑就聊到這裡，今天辛苦了！",
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6%E3%82%B5%E3%83%A0%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B3%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E8%8B%91"
+        ]
+      }
+    ],
+    "audio": "audio/enoshima-samuel-cocking-garden.mp3",
+    "photo": null,
+    "photo_credit": null,
+    "verified": false
   }
 ]

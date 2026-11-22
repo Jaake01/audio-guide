@@ -83,8 +83,11 @@
       "days": [
         "2027-01-22"
       ],
-      "center": null,
-      "radius_m": 1000
+      "center": {
+        "lat": 35.322,
+        "lng": 139.554
+      },
+      "radius_m": 2500
     },
     {
       "id": "enoshima",
@@ -93,8 +96,11 @@
       "days": [
         "2027-01-22"
       ],
-      "center": null,
-      "radius_m": 800
+      "center": {
+        "lat": 35.3,
+        "lng": 139.481
+      },
+      "radius_m": 1200
     },
     {
       "id": "tsukiji",
