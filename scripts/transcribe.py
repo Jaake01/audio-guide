@@ -5,28 +5,33 @@
 import base64, json, os, re, sys, time, urllib.error, urllib.request
 
 MODEL = os.environ.get("TRANSCRIBE_MODEL", "gemini-3.1-flash-lite")
+# 免費方案的模型常回 503（忙碌）；每個模型額度分開算，所以忙的時候換下一個模型試
+MODELS = [MODEL] + [m for m in ["gemini-3.5-flash-lite", "gemini-2.5-flash"] if m != MODEL]
 ASK = ("First line: name the language actually spoken in this audio (e.g. Mandarin Chinese, English). "
        "Then transcribe it verbatim in that same original language (if Chinese, use Traditional Chinese characters). Do NOT translate.")
 
 
 def transcribe(data, mime="audio/mpeg", tries=6, ask=ASK):
+    """依序換模型重試；tries 是總共嘗試幾次。"""
     body = {"contents": [{"parts": [
         {"inlineData": {"mimeType": mime, "data": base64.b64encode(data).decode()}},
         {"text": ask}]}]}
     wait = 15
     for attempt in range(tries):
+        model = MODELS[attempt % len(MODELS)]
         req = urllib.request.Request(
-            f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent",
+            f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
             data=json.dumps(body).encode(),
             headers={"Content-Type": "application/json", "x-goog-api-key": os.environ["GEMINI_API_KEY"]})
         try:
-            resp = json.load(urllib.request.urlopen(req, timeout=300))
+            resp = json.load(urllib.request.urlopen(req, timeout=180))
             return "".join(p.get("text", "") for p in resp["candidates"][0]["content"]["parts"])
-        except urllib.error.HTTPError as e:
-            if e.code not in (429, 500, 503) or attempt == tries - 1:
+        except (urllib.error.HTTPError, TimeoutError, urllib.error.URLError) as e:
+            code = getattr(e, "code", None)
+            if (code is not None and code not in (429, 500, 503)) or attempt == tries - 1:
                 raise
-            print(f"    聽寫 HTTP {e.code}，{wait} 秒後重試", file=sys.stderr)
-            time.sleep(wait); wait = min(wait * 2, 300)
+            print(f"    聽寫（{model}）失敗：{code or e}，{wait} 秒後換模型重試", file=sys.stderr)
+            time.sleep(wait); wait = min(wait * 2, 120)
 
 
 def find_times(data, phrases, mime="audio/mpeg"):

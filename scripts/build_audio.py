@@ -61,6 +61,10 @@ def silences(pcm, min_len=0.35):
     return list(zip(starts, ends))
 
 
+class TranscribeDown(Exception):
+    """聽寫服務一直不能用：沒辦法確認開頭有沒有亂編的內容，今天先停。"""
+
+
 def trim_lead(pcm, first_text):
     """模型有時會在稿子前面自己編一段開場（例如假的聊天）。找到第一句真正開始的位置，
     把前面多出來的部分剪掉。回傳 (剪過的 pcm, 剪掉幾秒)。"""
@@ -68,8 +72,8 @@ def trim_lead(pcm, first_text):
     try:
         t = tr.find_times(pcm_to_mp3(pcm, 48), [phrase])[0]
     except Exception as e:
-        print(f"    ⚠ 無法確認開頭（{e}），請自己聽一下開頭", flush=True)
-        return pcm, 0.0
+        # 不能確認開頭就不存（模型常自己編一段開場），免得存進沒檢查過的語音
+        raise TranscribeDown(f"無法確認開頭：{e}")
     if t is None or t < 0.6:
         return pcm, 0.0
     # 取最接近第一句開頭的停頓；附近沒有停頓（亂講的內容直接接上第一句）就直接在第一句開頭剪
@@ -190,4 +194,6 @@ if __name__ == "__main__":
                 time.sleep(a.gap)
     except tts.DailyQuotaExceeded as e:
         print(f"今天的免費額度用完了（{e}）。已完成的景點都存好了，明天再跑同一個指令會接著做。")
+    except TranscribeDown as e:
+        print(f"聽寫服務暫時不能用（{e}），這個景點沒存。已完成的景點都存好了，明天會接著做。")
     print(f"這次完成 {done} 個景點")

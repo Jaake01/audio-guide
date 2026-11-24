@@ -21,7 +21,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 110
     steps:
       - uses: actions/checkout@v4
 
@@ -36,6 +36,9 @@ jobs:
           pip install -q pillow
 
       - name: Generate audio (Gemini free tier, stops when today's quota is used up)
+        # 每做完一個景點就存檔；時間到被中斷也沒關係，下面的 commit 步驟仍會把做好的存起來
+        timeout-minutes: 70
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
@@ -46,6 +49,7 @@ jobs:
           fi
 
       - name: Download photos from Wikimedia Commons
+        timeout-minutes: 20
         continue-on-error: true
         run: python3 -u scripts/fetch_photos.py --limit 15
 
