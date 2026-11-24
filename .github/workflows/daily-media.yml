@@ -1,0 +1,63 @@
+# 每天自動產生語音、下載照片，不需要 Claude。
+# - 語音：Gemini API 免費方案每天 10 次請求，台灣時間 16:00（UTC 08:00）左右重置，所以排在重置之後跑。
+#   額度用完時 build_audio.py 會存好進度並正常結束，隔天接著做。
+# - 照片：從 Wikimedia Commons 下載 spots.json 裡有 photo_source、還沒有 photo 的景點。
+# 需要在 repo 的 Settings → Secrets and variables → Actions 加上 GEMINI_API_KEY。
+# 排程只會在預設分支（main）上執行；也可以在 Actions 頁面手動按「Run workflow」。
+name: Daily media (audio + photos)
+
+on:
+  schedule:
+    - cron: "37 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-media
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg and Pillow
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          pip install -q pillow
+
+      - name: Generate audio (Gemini free tier, stops when today's quota is used up)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ -z "$GEMINI_API_KEY" ]; then
+            echo "::warning::GEMINI_API_KEY secret is not set; skipping audio."
+          else
+            python3 -u scripts/build_audio.py
+          fi
+
+      - name: Download photos from Wikimedia Commons
+        continue-on-error: true
+        run: python3 -u scripts/fetch_photos.py --limit 15
+
+      - name: Commit new audio and photos
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio photos data/spots.json
+          if git diff --cached --quiet; then
+            echo "Nothing new today."
+          else
+            git commit -m "Daily media: new audio and photos"
+            git push
+          fi
