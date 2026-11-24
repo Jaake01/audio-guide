@@ -1621,28 +1621,32 @@
         "text": "你現在來到的是鎌倉文學館，這棟建築本身就很有看頭。它是一九三六年，加賀前田家的侯爵前田利為改建的西式別墅，是「鎌倉三大洋館」之一。\n其實最早一八九〇年左右，前田家就在這裡蓋了別墅，可是一九一〇年被火燒掉了，後來才改建成現在這棟西洋式建築。\n戰後有一段時間，這裡曾經是丹麥公使、還有日本首相佐藤榮作的別墅。一九八三年，前田家把它捐給鎌倉市，一九八五年開幕成為文學館。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E6%96%87%E5%AD%A6%E9%A4%A8"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "為什麼鎌倉要蓋一間文學館？因為明治以後，很多作家都在鎌倉住過或待過，跟鎌倉有關的作家超過三百位，像是川端康成、夏目漱石、芥川龍之介、與謝野晶子。\n館裡的常設展，展示這些作家的親筆原稿、信件和愛用的物品。你剛剛在大佛那邊聽到與謝野晶子把大佛說成「美男子釋迦牟尼」的歌，在這裡也可以認識更多她和其他作家的故事。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E6%96%87%E5%AD%A6%E9%A4%A8"
-        ]
+        ],
+        "start": 38.82
       },
       {
         "kind": "gossip",
         "text": "如果你對鎌倉的作家有興趣，可以進去看看。開館時間和休館日記得先查一下。好啦，鎌倉文學館就聊到這裡！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E6%96%87%E5%AD%A6%E9%A4%A8"
-        ]
+        ],
+        "start": 60.01
       }
     ],
     "audio": "audio/kamakura-museum-of-literature.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "230128_Kamakura_Museum_of_Literature_Kamakura_Kanagawa_pref_Japan01s3.jpg"
+    "photo_source": "230128_Kamakura_Museum_of_Literature_Kamakura_Kanagawa_pref_Japan01s3.jpg",
+    "duration": 67.5
   },
   {
     "id": "kamakura-koko-mae-crossing",
@@ -1663,7 +1667,8 @@
         "text": "你現在來到的是鎌倉高校前站旁邊的平交道。這個車站一九〇三年開業，當時叫「日坂站」，一九五三年才改成現在的名字，因為坡道上面就是神奈川縣立鎌倉高中。\n它是一個很小的無人車站，月台前面就是一整片湘南的海。一九九七年，它被選進「關東車站百選」，理由就是：從月台望出去，整片都是湘南的海。天氣好的時候，還可以看到富士山、房總半島和伊豆大島。\n這裡也常被拿來拍日劇和廣告。「前面就是大海的小車站」這個畫面，已經變成很多人心目中「湘南」的代表風景。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E9%AB%98%E6%A0%A1%E5%89%8D%E9%A7%85"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -1672,7 +1677,8 @@
           "https://www.kanaloco.jp/news/government/article-988191.html",
           "https://www.tokyo-sports.co.jp/articles/-/85400",
           "https://www.gltjp.com/ja/directory/item/11211/"
-        ]
+        ],
+        "start": 46.8
       },
       {
         "kind": "gossip",
@@ -1681,14 +1687,16 @@
           "https://www.kanaloco.jp/news/government/article-988191.html",
           "https://www.kanaloco.jp/news/social/article-1211902.html",
           "https://www.gltjp.com/ja/directory/item/11211/"
-        ]
+        ],
+        "start": 70.7
       }
     ],
     "audio": "audio/kamakura-koko-mae-crossing.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "Kamakura-Koko-Mae_Station.jpg"
+    "photo_source": "Kamakura-Koko-Mae_Station.jpg",
+    "duration": 102.3
   },
   {
     "id": "enoshima-island",
@@ -1709,28 +1717,32 @@
         "text": "你現在正在走過橋、準備登上江之島。這座島周圍大約四公里，是一座靠著大約六百公尺長的沙洲跟陸地連起來的「陸繫島」。\n很久以前，這條沙洲只有在退潮的時候才會露出來，大家只能等退潮走過去。後來一九二三年關東大地震，整個地面隆起，加上後來的建設，才變成現在這樣隨時都能走過去。島的東邊原本還有一座叫「聖天島」的小島，也是那次地震隆起之後，跟江之島連成一片。\n一九六四年東京奧運，江之島是帆船比賽的場地，那個時候也是觀光客最多的時期。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "江戶時代後期，江之島是江戶老百姓最愛的旅遊地之一。當時流行一條觀光路線：大山、江之島、鎌倉、金澤八景。表面上說是去參拜寺社，其實就是出來玩的。日本有一段落語叫《大山詣》，講的就是這種旅行。\n你走進島上的第一座鳥居，是青銅鳥居，最早是一七四七年建的，一八二一年重建。穿過它之後，就是兩邊都是店的弁財天仲見世通，一路往上走就到江島神社。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
-        ]
+        ],
+        "start": 58.91
       },
       {
         "kind": "gossip",
         "text": "一個很實用的提醒：江之島上的老鷹很多，牠們會突然從天上俯衝下來，搶觀光客手上的食物。這是因為以前有人餵牠們，牠們學會了從人手上拿東西吃。所以在島上邊走邊吃的時候，要小心頭頂喔！\n另外，你在仲見世通如果要買伴手禮，最好早點買，傍晚之後很多店就關了。好啦，我們上島吧！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
-        ]
+        ],
+        "start": 91.1
       }
     ],
     "audio": "audio/enoshima-island.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "Enoshima_view_from_Kugenuma_beach.jpg"
+    "photo_source": "Enoshima_view_from_Kugenuma_beach.jpg",
+    "duration": 128.4
   },
   {
     "id": "enoshima-jinja",
@@ -1751,7 +1763,8 @@
         "text": "你現在來到的是江島神社，它是「日本三大弁天」之一。神社其實分成三座宮，分散在島上：北邊的邊津宮、中間的中津宮，還有西邊的奧津宮，分別供奉三位女神，合起來叫「江島大神」。\n根據社傳，它的起源是五五二年，欽明天皇下令在島南邊的洞窟裡蓋宮。另外根據《吾妻鏡》，一一八二年源賴朝命令文覺上人，把弁財天請到島上的岩屋。\n你知道嗎？江島神社以前其實是一間寺，叫金龜山與願寺，供奉的是弁財天。江戶時代弁財天信仰很盛行，很多老百姓都來參拜。直到明治時代神佛分離，三重塔和很多佛像被破壞，它才改成現在的神社，原本的僧侶也全部改當神職人員。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B3%B6%E7%A5%9E%E7%A4%BE"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -1760,21 +1773,24 @@
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B3%B6%E7%A5%9E%E7%A4%BE",
           "https://smtrc.jp/town-archives/city/fujisawa/p02.html",
           "https://co-trip.jp/article/637775"
-        ]
+        ],
+        "start": 68.41
       },
       {
         "kind": "gossip",
         "text": "三座宮各有看點。邊津宮是一二〇六年源實朝創建的；中津宮的社殿是一六八九年改建的權現造；奧津宮的拜殿天花板，畫著江戶時代畫家酒井抱一的「八方睨之龜」，據說不管你從哪個角度看，烏龜都在盯著你，可以去試試看。\n邊津宮旁邊的奉安殿，供奉著八臂弁財天和妙音弁財天。好啦，江島神社就聊到這裡，慢慢往上爬吧！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B3%B6%E7%A5%9E%E7%A4%BE"
-        ]
+        ],
+        "start": 112.72
       }
     ],
     "audio": "audio/enoshima-jinja.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "Enoshimajinja_-05.jpg"
+    "photo_source": "Enoshimajinja_-05.jpg",
+    "duration": 146.4
   },
   {
     "id": "enoshima-escar",
@@ -1795,28 +1811,32 @@
         "text": "你現在要搭的是江之島 Escar，是一座戶外的付費電扶梯，從江島神社的石階入口，分四段一路到島的山頂，大約五分鐘就到了。\n它是一九五九年七月開通的，是日本第一座戶外電扶梯。為什麼要蓋？因為當年山頂的植物園和江島神社，都要爬很長的石階才到得了，很多觀光客爬到一半就放棄回頭了。當時經營江之電的五島慶太，認為光靠鐵路沒有發展性，推動公司進軍觀光業，這座電扶梯就是其中一項。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "「Escar」這個名字的由來，就是因為它是一座只能往上的電扶梯。\n你可能會發現，Escar 大部分都在隧道裡面，看不太到風景。其實一開始公司想蓋成露天的，可以邊搭邊看海，但因為要考慮景觀，跟反對興建的人妥協，最後才做成隧道式的。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC"
-        ]
+        ],
+        "start": 29.22
       },
       {
         "kind": "gossip",
         "text": "搭 Escar 可以省很多力氣，留著體力等一下去岩屋，那邊要上上下下很多樓梯。\n不過記得：Escar 只能上山，下山要自己走樓梯。好啦，搭上去吧！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC"
-        ]
+        ],
+        "start": 45.71
       }
     ],
     "audio": "audio/enoshima-escar.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "Enoshima_Escar_2.jpg"
+    "photo_source": "Enoshima_Escar_2.jpg",
+    "duration": 55.4
   },
   {
     "id": "enoshima-kodama-jinja",
@@ -1837,28 +1857,32 @@
         "text": "你現在來到的是兒玉神社，供奉的是明治時代的軍人兒玉源太郎。他在日俄戰爭時非常活躍，也當過台灣總督。神社是一九一八年創建的。\n為什麼要在江之島供奉他？根據一九二一年的報紙記載，日俄戰爭快開打的時候，當時擔任參謀次長的兒玉，每個星期天都會去鎌倉的別墅休養。可是想找他的人一直跑到鎌倉，他只好偷偷躲到江之島的山裡，靜靜思考局勢。\n沒想到連江之島都開始有陸軍的大人物跑來找他，島上的居民覺得奇怪，才知道原來是兒玉大將。島民很感念他，所以在他過世之後，買下他當年休養的地方來祭祀他。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%85%90%E7%8E%89%E7%A5%9E%E7%A4%BE_%28%E8%97%A4%E6%B2%A2%E5%B8%82%29"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "這間神社跟台灣有一段特別的緣分。境內有一對很有名的狛犬，嘴裡含著的石球可以轉動，是做工很精巧的名品。\n這對狛犬，是因為兒玉源太郎當年擔任台灣總督、推動台灣的近代化，台灣的有志之士為了這段緣分送來的。你從台灣來，看到這對狛犬，是不是覺得很特別？",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%85%90%E7%8E%89%E7%A5%9E%E7%A4%BE_%28%E8%97%A4%E6%B2%A2%E5%B8%82%29"
-        ]
+        ],
+        "start": 38.91
       },
       {
         "kind": "gossip",
         "text": "兒玉神社在江島神社邊津宮旁邊，人比較少。如果你對這段歷史有興趣，可以進去看看那對狛犬嘴裡的石球。好啦，兒玉神社就聊到這裡！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%85%90%E7%8E%89%E7%A5%9E%E7%A4%BE_%28%E8%97%A4%E6%B2%A2%E5%B8%82%29"
-        ]
+        ],
+        "start": 59.45
       }
     ],
     "audio": "audio/enoshima-kodama-jinja.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "Kodama_Shrine.jpg"
+    "photo_source": "Kodama_Shrine.jpg",
+    "duration": 68.7
   },
   {
     "id": "enoshima-iwamotoro",
