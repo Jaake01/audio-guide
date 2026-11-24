@@ -259,7 +259,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 161.2
+    "duration": 161.2,
+    "photo_source": "Kawagoe_Kuratsukuri_Museum.JPG"
   },
   {
     "id": "kawagoe-kashiya-yokocho",
@@ -358,7 +359,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 122.9
+    "duration": 122.9,
+    "photo_source": "川越市大沢家住宅2013-09.JPG"
   },
   {
     "id": "kawagoe-miyoshino-jinja",
@@ -406,7 +408,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 152.2
+    "duration": 152.2,
+    "photo_source": "Miyoshino_Shrine-2006-02-12_1.jpg"
   },
   {
     "id": "kawagoe-castle-honmaru-goten",
@@ -453,7 +456,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 145.3
+    "duration": 145.3,
+    "photo_source": "Kawagoe-Castle_Honmaru-Goten.jpg"
   },
   {
     "id": "kawagoe-kitain",
@@ -502,7 +506,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 146.8
+    "duration": 146.8,
+    "photo_source": "Kawagoe_Kitain_temple_main_hall.jpg"
   },
   {
     "id": "kawagoe-hikawa-jinja",
@@ -551,7 +556,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 153.5
+    "duration": 153.5,
+    "photo_source": "Kawagoe_Hikawa_Shrine,_Kawagoe_City;_December_2019_(01).jpg"
   },
   {
     "id": "kawagoe-crea-mall",
@@ -596,7 +602,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 109.1
+    "duration": 109.1,
+    "photo_source": "Kawagoe-CreaMall.jpg"
   },
   {
     "id": "kawagoe-hachimangu",
@@ -641,7 +648,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 117.6
+    "duration": 117.6,
+    "photo_source": "川越八幡神社_拝殿.jpg"
   },
   {
     "id": "kawagoe-kumano-jinja",
@@ -689,7 +697,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 97.2
+    "duration": 97.2,
+    "photo_source": "拝殿正面3.jpg"
   },
   {
     "id": "kawagoe-renkeiji",
@@ -737,7 +746,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 86.2
+    "duration": 86.2,
+    "photo_source": "蓮馨寺.JPG"
   },
   {
     "id": "kawagoe-taisho-roman",
@@ -784,7 +794,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 106.4
+    "duration": 106.4,
+    "photo_source": "Taisho_Roman_Yume_Dori.JPG"
   },
   {
     "id": "kawagoe-scala-za",
@@ -829,7 +840,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 82.1
+    "duration": 82.1,
+    "photo_source": "RZ_Kawagoe_Scalaza_2020-11_(2).jpg"
   },
   {
     "id": "kawagoe-matsuri-kaikan",
@@ -877,7 +889,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 94.6
+    "duration": 94.6,
+    "photo_source": "Kawagoe_Festival_Museum.JPG"
   },
   {
     "id": "kawagoe-resona-koedo-terrace",
@@ -922,7 +935,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 105.4
+    "duration": 105.4,
+    "photo_source": "Saitama_Risona_Bank_Kawagoe_Branch.jpg"
   },
   {
     "id": "kawagoe-yojuin",
@@ -969,7 +983,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 96.4
+    "duration": 96.4,
+    "photo_source": "Youjuin.2.JPG"
   },
   {
     "id": "kawagoe-koedo-kurari",
@@ -1015,7 +1030,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 102.0
+    "duration": 102.0,
+    "photo_source": "小江戸蔵里.jpg"
   },
   {
     "id": "kawagoe-city-art-museum",
@@ -1061,7 +1077,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 84.2
+    "duration": 84.2,
+    "photo_source": "Kawagoe_City_Art_Museum.JPG"
   },
   {
     "id": "kawagoe-semba-toshogu",
@@ -1108,7 +1125,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 98.2
+    "duration": 98.2,
+    "photo_source": "Semba-Toshogu.JPG"
   },
   {
     "id": "kawagoe-nakain",
@@ -1156,7 +1174,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 93.1
+    "duration": 93.1,
+    "photo_source": "Naka-in_Temple.JPG"
   },
   {
     "id": "kawagoe-hie-jinja",
@@ -1202,7 +1221,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 80.6
+    "duration": 80.6,
+    "photo_source": "Kawagoe_Hie_Shrine_201711.jpg"
   },
   {
     "id": "kawagoe-naritasan",
@@ -1247,7 +1267,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 60.3
+    "duration": 60.3,
+    "photo_source": "NaritasanKawagoeBetsuin20131014.jpg"
   },
   {
     "id": "kawagoe-yaoko-museum",
@@ -1292,7 +1313,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 78.7
+    "duration": 78.7,
+    "photo_source": "Yaoko_Kawagoe_Museum_aka_Yuji_Misu_Memorial_Hall.jpg"
   },
   {
     "id": "kamakura-komachi-dori",
@@ -1339,7 +1361,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 108.9
+    "duration": 108.9,
+    "photo_source": "Komachi_Street,_Kanagawa_02.jpg"
   },
   {
     "id": "kamakura-enoden",
@@ -1388,7 +1411,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 81.8
+    "duration": 81.8,
+    "photo_source": "Enoden-Hase-station-building.jpg"
   },
   {
     "id": "kamakura-daibutsu",
@@ -1433,7 +1457,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 123.6
+    "duration": 123.6,
+    "photo_source": "230128_Kamakura_Daibutsu_Japan01s3.jpg"
   },
   {
     "id": "kamakura-hasedera",
@@ -1480,7 +1505,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 116.7
+    "duration": 116.7,
+    "photo_source": "Kamakura_Hasedera_Kannondou.jpg"
   },
   {
     "id": "kamakura-goryo-jinja",
@@ -1527,7 +1553,8 @@
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "duration": 86.8
+    "duration": 86.8,
+    "photo_source": "Goryou_jinnja_002.jpg"
   },
   {
     "id": "kamakura-amanawa-shinmei",
@@ -1548,27 +1575,32 @@
         "text": "你現在來到的是甘繩神明神社，據說是鎌倉市最古老的神社。它供奉的是天照大御神。\n根據一七一二年寫成的緣起，它是七一〇年由僧人行基開創的。後來一位叫染屋時忠的人，在神輿山上蓋了神明宮，山腳下蓋了寺院。\n它跟源氏的關係很深。一〇六三年源賴義、一〇八一年源義家都曾經整修過這間神社。鎌倉時代的史書《吾妻鏡》也記載，一一八六年正月，神社整修完成，源賴朝還帶著北條政子一起來參拜。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E7%94%98%E7%B8%84%E7%A5%9E%E6%98%8E%E7%A5%9E%E7%A4%BE"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "這裡有一個跟源氏有關的傳說。\n據說源賴義來到關東，娶了平直方的女兒之後，來這間神社祈求孩子，後來就生下了源義家，也就是後來很有名的「八幡太郎義家」。從那之後，這間神社就跟河內源氏一直有很深的淵源。\n你之前在鶴岡八幡宮聽過源賴義的名字，他就是把八幡神請到鎌倉的人。所以這間小神社，跟整個鎌倉源氏的故事，其實是連在一起的。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E7%94%98%E7%B8%84%E7%A5%9E%E6%98%8E%E7%A5%9E%E7%A4%BE"
-        ]
+        ],
+        "start": 36.88
       },
       {
         "kind": "gossip",
         "text": "這間神社在長谷的住宅區裡，參道有一段石階。\n如果你從大佛走到長谷寺，可以稍微繞一下過來，感受一下鎌倉最古老神社的氣氛。好啦，甘繩神明神社就聊到這裡！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E7%94%98%E7%B8%84%E7%A5%9E%E6%98%8E%E7%A5%9E%E7%A4%BE"
-        ]
+        ],
+        "start": 65.94
       }
     ],
     "audio": "audio/kamakura-amanawa-shinmei.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 79.1,
+    "photo_source": "Amanawa_Shinmei-Jinja_Hase_Kamakura,_Worship_hall_(2016-01-22).jpg"
   },
   {
     "id": "kamakura-museum-of-literature",
@@ -1609,7 +1641,8 @@
     "audio": "audio/kamakura-museum-of-literature.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "photo_source": "230128_Kamakura_Museum_of_Literature_Kamakura_Kanagawa_pref_Japan01s3.jpg"
   },
   {
     "id": "kamakura-koko-mae-crossing",
@@ -1654,7 +1687,8 @@
     "audio": "audio/kamakura-koko-mae-crossing.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "photo_source": "Kamakura-Koko-Mae_Station.jpg"
   },
   {
     "id": "enoshima-island",
@@ -1695,7 +1729,8 @@
     "audio": "audio/enoshima-island.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "photo_source": "Enoshima_view_from_Kugenuma_beach.jpg"
   },
   {
     "id": "enoshima-jinja",
@@ -1738,7 +1773,8 @@
     "audio": "audio/enoshima-jinja.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "photo_source": "Enoshimajinja_-05.jpg"
   },
   {
     "id": "enoshima-escar",
@@ -1779,7 +1815,8 @@
     "audio": "audio/enoshima-escar.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "photo_source": "Enoshima_Escar_2.jpg"
   },
   {
     "id": "enoshima-kodama-jinja",
@@ -1820,7 +1857,8 @@
     "audio": "audio/enoshima-kodama-jinja.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "photo_source": "Kodama_Shrine.jpg"
   },
   {
     "id": "enoshima-iwamotoro",
@@ -1862,7 +1900,8 @@
     "audio": "audio/enoshima-iwamotoro.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "photo_source": "Iwamotoro.JPG"
   },
   {
     "id": "enoshima-iwaya",
@@ -1947,7 +1986,8 @@
     "audio": "audio/enoshima-chigogafuchi.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "photo_source": "Chigogafuchi - Enoshima, Japan - DSC07893.jpg"
   },
   {
     "id": "enoshima-ryuren-no-kane",
@@ -1989,7 +2029,8 @@
     "audio": "audio/enoshima-ryuren-no-kane.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "photo_source": "Locks @ Love bell @ Enoshima (13897742046).jpg"
   },
   {
     "id": "enoshima-samuel-cocking-garden",
@@ -2030,6 +2071,7 @@
     "audio": "audio/enoshima-samuel-cocking-garden.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "photo_source": "Enoshima_Samuel_Cocking_Garden_from_the_Enoshima_Sea_Candle_(Feb_2022).jpg"
   }
 ]
