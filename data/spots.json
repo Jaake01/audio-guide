@@ -1313,14 +1313,16 @@
         "text": "你現在走的就是小町通，從鎌倉車站東口往北，一直延伸到鶴岡八幡宮附近，全長大約三百六十公尺，兩邊擠滿了吃的、伴手禮和雜貨店。\n不過你可能想不到，明治初年這裡還是一片田地，叫做「瀨戶耕地」，這條路只是一條農路。一八八九年橫須賀線通車、鎌倉車站開業之後，人潮和物流開始往這裡跑，才慢慢出現肉店、酒店、蔬菜店這些店家。\n一九二三年關東大地震，車站附近被火災波及，原本在別的地方的商家，很多集體搬到小町通這一帶。到了昭和初年，這裡變成支撐別墅住戶和移居者日常生活的商店街。一九五二年成立了商店會，現在它是鎌倉會員最多的商店會。\n有個小冷知識：鎌倉時代真正熱鬧的商業街，其實是若宮大路東側的「小町大路」，不是這條。現在這條小町通，是近代才發展起來的。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%BA%E9%80%9A%E3%82%8A"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "「小町通」這個名字怎麼來的？說法並不確定。有一種說法是，戰後這一帶被叫做「新小町」，名字就慢慢固定下來了。鎌倉市中央圖書館也查過，認為可能跟附近蛭子神社的信眾住在這裡、地名跟著變化有關，但到現在都還沒有定論。\n連當地圖書館都說不清楚的名字，是不是很有意思？",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%BA%E9%80%9A%E3%82%8A"
-        ]
+        ],
+        "start": 55.46
       },
       {
         "kind": "gossip",
@@ -1329,13 +1331,15 @@
           "https://rurubu.jp/andmore/article/24984",
           "https://www.walkerplus.com/article/1157478/",
           "https://www.mlit.go.jp/tagengo-db/common/001557290.pdf"
-        ]
+        ],
+        "start": 76.36
       }
     ],
     "audio": "audio/kamakura-komachi-dori.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 108.9
   },
   {
     "id": "kamakura-enoden",
@@ -1357,7 +1361,8 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%83%8E%E5%B3%B6%E9%9B%BB%E9%89%84",
           "https://www.nippon.com/ja/articles/-/57231"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -1366,7 +1371,8 @@
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%83%8E%E5%B3%B6%E9%9B%BB%E9%89%84",
           "https://www.nippon.com/ja/articles/-/57231",
           "https://www.cst.nihon-u.ac.jp/research/gakujutu/62/pdf/F2-52.pdf"
-        ]
+        ],
+        "start": 34.97
       },
       {
         "kind": "gossip",
@@ -1374,13 +1380,15 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%83%8E%E5%B3%B6%E9%9B%BB%E9%89%84",
           "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E9%AB%98%E6%A0%A1%E5%89%8D%E9%A7%85"
-        ]
+        ],
+        "start": 67.34
       }
     ],
     "audio": "audio/kamakura-enoden.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 81.8
   },
   {
     "id": "kamakura-daibutsu",
@@ -1401,27 +1409,31 @@
         "text": "你眼前這尊就是鎌倉大佛，是高德院的本尊，也是國寶。它是一尊銅造的阿彌陀如來坐像，高大約十一點四公尺，加上台座有十三公尺多，重大約一百二十一噸。光是耳朵就有一點九公尺長。\n根據鎌倉時代的史書《吾妻鏡》，一二五二年開始鑄造這尊銅造大佛。有趣的是，它到底是誰發起、誰出錢蓋的，到現在都不清楚，連開基和開山的人都不知道。\n你現在看到大佛坐在露天底下，但它原本其實是住在大佛殿裡面的。境內的考古挖掘，也確認了大佛殿真的存在過。根據記載，一三三五年和一三六九年，大佛殿都被強風吹倒過；以前也常聽說室町時代被海嘯沖毀，不過那場海嘯是哪一年，各種資料說法不一樣。總之，從那之後，大佛就一直露天坐到現在。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%BE%B3%E9%99%A2"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "這尊大佛的命運，其實滿坎坷的。\n一四八六年有一篇紀行文記載，當時大佛露天坐著，大佛的肚子裡，竟然有人大白天在賭博！到了江戶時代中期，大佛全身都是破洞，頭上的螺髮掉了很多，背後的門也沒了，鴿子和麻雀自由進出，在大佛裡面築巢、大便。\n後來是一位叫祐天的僧人，得到淺草商人野島新左衛門的捐款，跟養國上人一起修復大佛，這才救了回來。\n近代也經歷過考驗：一九二三年關東大地震，大佛的台座壞掉、下沉了一公尺。一九五九年開始的大修理，把台座改成了免震結構，讓大佛更能抵抗地震。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%BE%B3%E9%99%A2"
-        ]
+        ],
+        "start": 52.16
       },
       {
         "kind": "gossip",
         "text": "來點文學八卦。境內有一塊與謝野晶子的歌碑，上面寫著：「鎌倉啊，雖然是佛，釋迦牟尼真是個美男子，在夏天的樹蔭下。」很浪漫對吧？但有個小問題：鎌倉大佛其實是阿彌陀如來，不是釋迦牟尼。連大文豪都會搞錯，是不是有點可愛？\n另外，你可以多付五十日圓，走進大佛的肚子裡看看。當年有人在裡面賭博、鳥在裡面築巢，現在你可以進去看看它的內部構造。好啦，鎌倉大佛就聊到這裡！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%BE%B3%E9%99%A2"
-        ]
+        ],
+        "start": 93.06
       }
     ],
     "audio": "audio/kamakura-daibutsu.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 123.6
   },
   {
     "id": "kamakura-hasedera",
@@ -1442,14 +1454,16 @@
         "text": "歡迎來到長谷寺，大家也叫它「長谷觀音」。這裡的本尊是十一面觀世音菩薩，高九點一八公尺，是日本最大級的木造佛像之一。它也是坂東三十三觀音靈場的第四號札所。\n根據寺傳，長谷寺是七三六年開創的。不過要說清楚，中世以前的歷史有很多不明的地方，創建的確切時間和經過，其實沒有史料能確定。\n目前能證明它很早就存在的，是一口梵鐘。鐘上的銘文寫著，一二六四年由當時的住持發起募款鑄造。從這段文字可以知道，最晚在十三世紀後半，長谷寺就已經存在了，當時還叫做「新長谷寺」。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E9%95%B7%E8%B0%B7%E5%AF%BA_%28%E9%8E%8C%E5%80%89%E5%B8%82%29"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "長谷寺有一個很浪漫的傳說。\n據說七二一年，一位叫德道上人的僧人，在奈良的深山裡找到一棵很大的樟樹，用它雕了兩尊十一面觀音。其中一尊成為奈良長谷寺的本尊；另一尊，他祈禱之後放到海裡，讓它隨緣漂流。\n十五年後，這尊漂流的觀音，竟然漂到了三浦半島的長井海邊，後來就被安置在鎌倉，這就是長谷寺的開始。\n不過寺方自己也說，這是解釋由來的寺傳，不能直接當成史實。但你看著這尊巨大的觀音，想像它在海上漂了十五年，還是滿有畫面的。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E9%95%B7%E8%B0%B7%E5%AF%BA_%28%E9%8E%8C%E5%80%89%E5%B8%82%29"
-        ]
+        ],
+        "start": 43.29
       },
       {
         "kind": "gossip",
@@ -1458,13 +1472,15 @@
           "https://rurubu.jp/andmore/article/10133",
           "https://co-trip.jp/post/426603",
           "https://www.walkerplus.com/spot/ar0314s599011/"
-        ]
+        ],
+        "start": 81.89
       }
     ],
     "audio": "audio/kamakura-hasedera.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 116.7
   },
   {
     "id": "kamakura-goryo-jinja",
@@ -1485,14 +1501,16 @@
         "text": "你現在來到的是御靈神社，在地人也叫它「權五郎神社」。這間神社什麼時候蓋的，其實不清楚，神奈川縣神社廳認為，可能平安時代末期就已經存在了。\n根據神社的由來，它原本供奉的是關東五個平氏武士家族的祖靈，分別是鎌倉氏、梶原氏、村岡氏、長尾氏、大庭氏。「五靈」的日文發音，跟「御靈」一樣，於是名字就慢慢變成了御靈神社。後來祭神集中成一位，就是鎌倉權五郎景政。\n景政是平安時代後期的武士，也是帶著鎌倉武士團開發湘南一帶的領主。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%BE%A1%E9%9C%8A%E7%A5%9E%E7%A4%BE_%28%E9%8E%8C%E5%80%89%E5%B8%82%29"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "景政有一個很熱血的故事。\n據說他十六歲的時候，跟著源義家參加後三年之役。攻打金澤柵的時候，敵人鳥海三郎一箭射中了他的右眼。結果景政沒有退下，反而帶著箭反擊，把對方打倒了。\n回到營地之後，有位戰友想幫他拔箭，竟然一腳踩在他的臉上用力拔。景政當場斥責了他，覺得這是對武士的侮辱。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%BE%A1%E9%9C%8A%E7%A5%9E%E7%A4%BE_%28%E9%8E%8C%E5%80%89%E5%B8%82%29"
-        ]
+        ],
+        "start": 34.76
       },
       {
         "kind": "gossip",
@@ -1501,13 +1519,15 @@
           "https://tabi-mag.jp/kn0370/",
           "https://4travel.jp/dm_shisetsu/10001112",
           "https://allabout.co.jp/gm/gc/446632/3/"
-        ]
+        ],
+        "start": 57.02
       }
     ],
     "audio": "audio/kamakura-goryo-jinja.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 86.8
   },
   {
     "id": "kamakura-amanawa-shinmei",
