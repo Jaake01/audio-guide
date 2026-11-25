@@ -256,8 +256,8 @@
       }
     ],
     "audio": "audio/kawagoe-ichibangai.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-ichibangai.webp",
+    "photo_credit": "English: Abasaa 日本語: あばさー / Public domain / https://commons.wikimedia.org/wiki/File:Kawagoe_Kuratsukuri_Museum.JPG",
     "verified": false,
     "duration": 161.2,
     "photo_source": "Kawagoe_Kuratsukuri_Museum.JPG"
@@ -356,8 +356,8 @@
       }
     ],
     "audio": "audio/kawagoe-osawa-house.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-osawa-house.webp",
+    "photo_credit": "At by At / CC BY-SA 3.0 / https://commons.wikimedia.org/wiki/File:%E5%B7%9D%E8%B6%8A%E5%B8%82%E5%A4%A7%E6%B2%A2%E5%AE%B6%E4%BD%8F%E5%AE%852013-09.JPG",
     "verified": false,
     "duration": 122.9,
     "photo_source": "川越市大沢家住宅2013-09.JPG"
@@ -405,8 +405,8 @@
       }
     ],
     "audio": "audio/kawagoe-miyoshino-jinja.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-miyoshino-jinja.webp",
+    "photo_credit": "Syohei Arai / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:Miyoshino_Shrine-2006-02-12_1.jpg",
     "verified": false,
     "duration": 152.2,
     "photo_source": "Miyoshino_Shrine-2006-02-12_1.jpg"
@@ -453,8 +453,8 @@
       }
     ],
     "audio": "audio/kawagoe-castle-honmaru-goten.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-castle-honmaru-goten.webp",
+    "photo_credit": "MaedaAkihiko / CC0 / https://commons.wikimedia.org/wiki/File:Kawagoe-Castle_Honmaru-Goten.jpg",
     "verified": false,
     "duration": 145.3,
     "photo_source": "Kawagoe-Castle_Honmaru-Goten.jpg"
@@ -503,8 +503,8 @@
       }
     ],
     "audio": "audio/kawagoe-kitain.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-kitain.webp",
+    "photo_credit": "Twilight2640 at Japanese Wikipedia (Transferred by Urashimat / GFDL / https://commons.wikimedia.org/wiki/File:Kawagoe_Kitain_temple_main_hall.jpg",
     "verified": false,
     "duration": 146.8,
     "photo_source": "Kawagoe_Kitain_temple_main_hall.jpg"
@@ -553,8 +553,8 @@
       }
     ],
     "audio": "audio/kawagoe-hikawa-jinja.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-hikawa-jinja.webp",
+    "photo_credit": "wongwt / CC BY-SA 2.0 / https://commons.wikimedia.org/wiki/File:Kawagoe_Hikawa_Shrine%2C_Kawagoe_City%3B_December_2019_%2801%29.jpg",
     "verified": false,
     "duration": 153.5,
     "photo_source": "Kawagoe_Hikawa_Shrine,_Kawagoe_City;_December_2019_(01).jpg"
@@ -599,8 +599,8 @@
       }
     ],
     "audio": "audio/kawagoe-crea-mall.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-crea-mall.webp",
+    "photo_credit": "mariachisamurai（ https://www.flickr.com/photos/queerdood/） / CC BY 2.0 / https://commons.wikimedia.org/wiki/File:Kawagoe-CreaMall.jpg",
     "verified": false,
     "duration": 109.1,
     "photo_source": "Kawagoe-CreaMall.jpg"
@@ -645,8 +645,8 @@
       }
     ],
     "audio": "audio/kawagoe-hachimangu.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-hachimangu.webp",
+    "photo_credit": "Towacoco / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:%E5%B7%9D%E8%B6%8A%E5%85%AB%E5%B9%A1%E7%A5%9E%E7%A4%BE_%E6%8B%9D%E6%AE%BF.jpg",
     "verified": false,
     "duration": 117.6,
     "photo_source": "川越八幡神社_拝殿.jpg"
@@ -694,8 +694,8 @@
       }
     ],
     "audio": "audio/kawagoe-kumano-jinja.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-kumano-jinja.webp",
+    "photo_credit": "川越熊野神社社務所 / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:%E6%8B%9D%E6%AE%BF%E6%AD%A3%E9%9D%A23.jpg",
     "verified": false,
     "duration": 97.2,
     "photo_source": "拝殿正面3.jpg"
@@ -743,8 +743,8 @@
       }
     ],
     "audio": "audio/kawagoe-renkeiji.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-renkeiji.webp",
+    "photo_credit": "しろじろう / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:%E8%93%AE%E9%A6%A8%E5%AF%BA.JPG",
     "verified": false,
     "duration": 86.2,
     "photo_source": "蓮馨寺.JPG"
@@ -886,8 +886,8 @@
       }
     ],
     "audio": "audio/kawagoe-matsuri-kaikan.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-matsuri-kaikan.webp",
+    "photo_credit": "English: Abasaa 日本語: あばさー / Public domain / https://commons.wikimedia.org/wiki/File:Kawagoe_Festival_Museum.JPG",
     "verified": false,
     "duration": 94.6,
     "photo_source": "Kawagoe_Festival_Museum.JPG"
@@ -1904,28 +1904,32 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%9C%AC%E6%A5%BC",
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B3%B6%E7%A5%9E%E7%A4%BE"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "這裡跟歌舞伎有一段淵源。一八六二年首演的歌舞伎《白浪五人男》裡，有一個很有名的角色叫「弁天小僧」。據說這個角色，就是以岩本院的稚兒，也就是寺院裡的少年為原型。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%9C%AC%E6%A5%BC"
-        ]
+        ],
+        "start": 35.92
       },
       {
         "kind": "gossip",
         "text": "岩本樓有一個很特別的浴池，叫「羅馬浴池」，是一九三〇年蓋的西式浴池，二〇〇一年還被登錄為國家的有形文化財。另外還有模仿江之島岩屋的「弁天洞窟浴池」。\n在一座以神社聞名的島上，有一間羅馬風格的浴池，是不是有點反差？好啦，岩本樓就聊到這裡！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%9C%AC%E6%A5%BC"
-        ]
+        ],
+        "start": 49.3
       }
     ],
     "audio": "audio/enoshima-iwamotoro.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "Iwamotoro.JPG"
+    "photo_source": "Iwamotoro.JPG",
+    "duration": 69.2
   },
   {
     "id": "enoshima-iwaya",
@@ -1947,27 +1951,31 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6",
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B3%B6%E7%A5%9E%E7%A4%BE"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "江戶時代，這個岩屋是江之島參拜的重點。從一七六一年開始，每七年會公開一次岩屋裡的弁財天，吸引很多人來。浮世繪畫家歌川廣重也畫過「江之島岩屋」，畫的是關東大地震以前的樣子。\n據說一五五一年，戰國武將北條綱成還下令，禁止在岩屋裡殺鴿子。可見從以前開始，這裡就是要保持清淨的神聖地方。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
-        ]
+        ],
+        "start": 44.73
       },
       {
         "kind": "gossip",
         "text": "小提醒：一九七一年，岩屋發生過落石事故，所以現在海浪大或颱風的時候會關閉，冬天的開放時間也可能比較短，進去之前記得確認一下。\n洞窟裡面很暗，走在裡面很有探險的感覺。好啦，江之島岩屋就聊到這裡，出來之後就是稚兒之淵，準備看夕陽吧！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
-        ]
+        ],
+        "start": 70.9
       }
     ],
     "audio": "audio/enoshima-iwaya.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 90.6
   },
   {
     "id": "enoshima-chigogafuchi",
@@ -1989,7 +1997,8 @@
         "sources": [
           "https://tabi-mag.jp/kn0441/",
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -1997,21 +2006,24 @@
         "sources": [
           "https://tabi-mag.jp/kn0441/",
           "https://smtrc.jp/town-archives/city/fujisawa/p02.html"
-        ]
+        ],
+        "start": 20.09
       },
       {
         "kind": "gossip",
         "text": "兩個重要提醒。\n第一，浪大的時候，海水會打上岩台，不要站得太靠海邊。\n第二，這裡的老鷹很多，網路上和島上都有提醒，牠們會從天上俯衝下來搶遊客手上的食物。如果你帶了東西在這裡吃，一定要小心。\n看完夕陽，天色暗了，記得用手機照明，沿著樓梯慢慢爬回山頂。好啦，稚兒之淵就聊到這裡，好好看夕陽吧！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6"
-        ]
+        ],
+        "start": 54.67
       }
     ],
     "audio": "audio/enoshima-chigogafuchi.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "Chigogafuchi - Enoshima, Japan - DSC07893.jpg"
+    "photo_source": "Chigogafuchi - Enoshima, Japan - DSC07893.jpg",
+    "duration": 81.0
   },
   {
     "id": "enoshima-ryuren-no-kane",
@@ -2032,7 +2044,8 @@
         "text": "你現在來到的是「戀人之丘」，從江島神社奧津宮前面往旁邊走就到了。斷崖邊掛著一座鐘，叫「龍戀之鐘」，據說情侶一起敲響它，就不會分開，所以很受情侶歡迎。\n旁邊的鐵絲網上，掛滿了情侶們的愛情鎖，你可以看看有沒有中文的。",
         "sources": [
           "https://tabi-mag.jp/kn0108/"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -2040,21 +2053,24 @@
         "sources": [
           "https://smtrc.jp/town-archives/city/fujisawa/p02.html",
           "https://co-trip.jp/article/637775"
-        ]
+        ],
+        "start": 19.08
       },
       {
         "kind": "gossip",
         "text": "不過要說清楚，這個傳說的細節，在不同版本的《江島緣起》和介紹文章裡都不太一樣，你聽到別人講的版本可能會有點出入。\n如果你是一個人來，也可以敲一下鐘，祈求好姻緣。好啦，龍戀之鐘就聊到這裡，往山頂走，就是 Samuel Cocking 苑和展望燈塔了！",
         "sources": [
           "https://www.waseda.jp/flas/rilas/assets/uploads/2022/10/488-475_Ami-TANAKA.pdf"
-        ]
+        ],
+        "start": 49.79
       }
     ],
     "audio": "audio/enoshima-ryuren-no-kane.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "Locks @ Love bell @ Enoshima (13897742046).jpg"
+    "photo_source": "Locks @ Love bell @ Enoshima (13897742046).jpg",
+    "duration": 69.1
   },
   {
     "id": "enoshima-samuel-cocking-garden",
@@ -2075,27 +2091,31 @@
         "text": "你現在來到的是江之島 Samuel Cocking 苑。它的名字，來自一位住在橫濱的愛爾蘭貿易商，Samuel Cocking。\n一八八〇年，他買下了江島神社還是寺廟時代的菜園，大約三千八百坪，兩年後的一八八二年開了植物園，是日本第三古老的植物園。後來因為時代變遷和一九二三年關東大地震，植物園荒廢了。\n有一個很有意思的發現：一九四九年整修植物園的時候，舊溫室的遺跡被埋到地下，一直到二〇〇二年再次整修才重新被挖出來，現在已經整理好開放參觀。那些紅磚上，還能看到很多「橫濱煉化製造會社」的刻印。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6%E3%82%B5%E3%83%A0%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B3%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E8%8B%91"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "苑裡那座高高的燈塔，就是「江之島 Sea Candle」。它其實是日本第一座民間燈塔。\n第一代燈塔是一九五一年蓋的，材料很特別：它是把戰前二子玉川遊樂園裡的「讀賣大降落傘塔」拆掉之後，拿那些材料蓋起來的，剛開始還叫「讀賣和平塔」。現在這座是二〇〇三年蓋的第二代，「Sea Candle」這個暱稱是公開徵選來的，因為它的形狀就像一根海上的蠟燭。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6%E7%81%AF%E5%8F%B0"
-        ]
+        ],
+        "start": 40.33
       },
       {
         "kind": "gossip",
         "text": "冬天這裡會舉辦「湘南的寶石」燈飾活動，整個苑和燈塔都會亮起來，很漂亮。山頂風很大，記得戴帽子和手套。\n還有一個小八卦：苑裡有一家「LON CAFE」，據說是日本第一間法式吐司專賣店。看完燈飾冷到不行，進去吃一份熱熱的法式吐司，剛剛好。好啦，Samuel Cocking 苑就聊到這裡，今天辛苦了！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%9F%E3%81%AE%E5%B3%B6%E3%82%B5%E3%83%A0%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B3%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E8%8B%91"
-        ]
+        ],
+        "start": 66.27
       }
     ],
     "audio": "audio/enoshima-samuel-cocking-garden.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "Enoshima_Samuel_Cocking_Garden_from_the_Enoshima_Sea_Candle_(Feb_2022).jpg"
+    "photo_source": "Enoshima_Samuel_Cocking_Garden_from_the_Enoshima_Sea_Candle_(Feb_2022).jpg",
+    "duration": 89.7
   }
 ]
