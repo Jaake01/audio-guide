@@ -791,8 +791,8 @@
       }
     ],
     "audio": "audio/kawagoe-taisho-roman.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-taisho-roman.webp",
+    "photo_credit": "English: Abasaa 日本語: あばさー / Public domain / https://commons.wikimedia.org/wiki/File:Taisho_Roman_Yume_Dori.JPG",
     "verified": false,
     "duration": 106.4,
     "photo_source": "Taisho_Roman_Yume_Dori.JPG"
@@ -837,8 +837,8 @@
       }
     ],
     "audio": "audio/kawagoe-scala-za.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-scala-za.webp",
+    "photo_credit": "Razgrad / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:RZ_Kawagoe_Scalaza_2020-11_%282%29.jpg",
     "verified": false,
     "duration": 82.1,
     "photo_source": "RZ_Kawagoe_Scalaza_2020-11_(2).jpg"
@@ -932,8 +932,8 @@
       }
     ],
     "audio": "audio/kawagoe-resona-koedo-terrace.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-resona-koedo-terrace.webp",
+    "photo_credit": "Lover of Romance / GFDL / https://commons.wikimedia.org/wiki/File:Saitama_Risona_Bank_Kawagoe_Branch.jpg",
     "verified": false,
     "duration": 105.4,
     "photo_source": "Saitama_Risona_Bank_Kawagoe_Branch.jpg"
@@ -980,8 +980,8 @@
       }
     ],
     "audio": "audio/kawagoe-yojuin.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-yojuin.webp",
+    "photo_credit": "Usiwakamaru / Public domain / https://commons.wikimedia.org/wiki/File:Youjuin.2.JPG",
     "verified": false,
     "duration": 96.4,
     "photo_source": "Youjuin.2.JPG"
@@ -1027,8 +1027,8 @@
       }
     ],
     "audio": "audio/kawagoe-koedo-kurari.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-koedo-kurari.webp",
+    "photo_credit": "TIC KAWAGOE / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E6%B1%9F%E6%88%B8%E8%94%B5%E9%87%8C.jpg",
     "verified": false,
     "duration": 102.0,
     "photo_source": "小江戸蔵里.jpg"
@@ -1074,8 +1074,8 @@
       }
     ],
     "audio": "audio/kawagoe-city-art-museum.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-city-art-museum.webp",
+    "photo_credit": "English: Abasaa 日本語: あばさー / Public domain / https://commons.wikimedia.org/wiki/File:Kawagoe_City_Art_Museum.JPG",
     "verified": false,
     "duration": 84.2,
     "photo_source": "Kawagoe_City_Art_Museum.JPG"
@@ -1122,8 +1122,8 @@
       }
     ],
     "audio": "audio/kawagoe-semba-toshogu.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-semba-toshogu.webp",
+    "photo_credit": "English: Abasaa 日本語: あばさー / Public domain / https://commons.wikimedia.org/wiki/File:Semba-Toshogu.JPG",
     "verified": false,
     "duration": 98.2,
     "photo_source": "Semba-Toshogu.JPG"
@@ -1171,8 +1171,8 @@
       }
     ],
     "audio": "audio/kawagoe-nakain.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-nakain.webp",
+    "photo_credit": "English: Abasaa 日本語: あばさー / Public domain / https://commons.wikimedia.org/wiki/File:Naka-in_Temple.JPG",
     "verified": false,
     "duration": 93.1,
     "photo_source": "Naka-in_Temple.JPG"
@@ -1218,8 +1218,8 @@
       }
     ],
     "audio": "audio/kawagoe-hie-jinja.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-hie-jinja.webp",
+    "photo_credit": "Tak1701d / GFDL / https://commons.wikimedia.org/wiki/File:Kawagoe_Hie_Shrine_201711.jpg",
     "verified": false,
     "duration": 80.6,
     "photo_source": "Kawagoe_Hie_Shrine_201711.jpg"
@@ -1264,8 +1264,8 @@
       }
     ],
     "audio": "audio/kawagoe-naritasan.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-naritasan.webp",
+    "photo_credit": "三人日 / GFDL / https://commons.wikimedia.org/wiki/File:NaritasanKawagoeBetsuin20131014.jpg",
     "verified": false,
     "duration": 60.3,
     "photo_source": "NaritasanKawagoeBetsuin20131014.jpg"
@@ -1408,8 +1408,8 @@
       }
     ],
     "audio": "audio/kamakura-enoden.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kamakura-enoden.webp",
+    "photo_credit": "Tokyo-Good / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:Enoden-Hase-station-building.jpg",
     "verified": false,
     "duration": 81.8,
     "photo_source": "Enoden-Hase-station-building.jpg"
@@ -2138,7 +2138,8 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E7%AF%89%E5%9C%B0%E6%9C%AC%E9%A1%98%E5%AF%BA",
           "https://online.bunka.go.jp/db/heritages/detail/262402"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "history",
@@ -2147,7 +2148,8 @@
           "https://ja.wikipedia.org/wiki/%E7%AF%89%E5%9C%B0%E6%9C%AC%E9%A1%98%E5%AF%BA",
           "https://serai.jp/hobby/199604",
           "https://www.city.chuo.lg.jp/a0052/bunkakankou/rekishi/kunibunkazai/021021.html"
-        ]
+        ],
+        "start": 131.56
       },
       {
         "kind": "gossip",
@@ -2155,14 +2157,16 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E7%AF%89%E5%9C%B0%E6%9C%AC%E9%A1%98%E5%AF%BA",
           "https://bunshun.jp/articles/-/82465"
-        ]
+        ],
+        "start": 226.14
       }
     ],
     "audio": "audio/tsukiji-honganji.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "2019_Tsukiji_Honganji.jpg"
+    "photo_source": "2019_Tsukiji_Honganji.jpg",
+    "duration": 277.8
   },
   {
     "id": "tsukiji-outer-market",
@@ -2185,20 +2189,23 @@
           "https://ja.wikipedia.org/wiki/%E7%AF%89%E5%9C%B0%E5%B8%82%E5%A0%B4",
           "https://www.city.chuo.lg.jp/a0052/bunkakankou/bunka/kyodoshiryokan/kindai_kentikubutu_tyousa/kindai52.html",
           "https://www.tsukiji.or.jp/assets/pdf/Tsukiji_HistoricalCalendar.pdf"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "gossip",
         "text": "講幾個逛的時候可以注意的小細節。\n第一，舊市場的建築是畫一個大弧形的。為什麼？因為以前有一條國鐵的貨運鐵路直接開進市場，叫東京市場站，鐵軌沿著市場外圍繞一圈，魚從貨車上卸下來馬上就拍賣。後來改成卡車運送，一九八七年鐵路就廢掉了。據說從市場青果門那邊，經過朝日新聞旁邊，往汐留方向的那條窄窄的路，就是以前的鐵道遺跡。\n第二，一九五四年美國在比基尼環礁做氫彈試爆，日本漁船第五福龍丸被輻射污染，船上的鮪魚被送進築地市場，當時整個市場陷入恐慌，拍賣還一度中斷。\n第三，市場的生意是跟著場內走的。場內休市的日子，場外大部分的店也會跟著休息，所以來之前要查一下休市日。今天是星期六，有開。\n還有兩個提醒：這裡很多店不能邊走邊吃，買了就在店門口吃完；很多小店只收現金。好啦，去找你的玉子燒跟鮪魚丼吧！",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E7%AF%89%E5%9C%B0%E5%B8%82%E5%A0%B4"
-        ]
+        ],
+        "start": 75.96
       }
     ],
     "audio": "audio/tsukiji-outer-market.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 137.1
   },
   {
     "id": "tsukiji-namiyoke-inari",
@@ -2220,7 +2227,8 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B3%A2%E9%99%A4%E7%A8%B2%E8%8D%B7%E7%A5%9E%E7%A4%BE",
           "https://tabiiro.jp/leisure/s/210135-chuo-namiyokejinja/"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -2228,7 +2236,8 @@
         "sources": [
           "https://tabiiro.jp/leisure/s/210135-chuo-namiyokejinja/",
           "https://www.city.chuo.lg.jp/a0052/bunkakankou/rekishi/bunkazai/kuminbunkazai/namiyokeinarijinjyanosisigasira.html"
-        ]
+        ],
+        "start": 42.45
       },
       {
         "kind": "gossip",
@@ -2236,13 +2245,15 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B3%A2%E9%99%A4%E7%A8%B2%E8%8D%B7%E7%A5%9E%E7%A4%BE",
           "https://www.itmedia.co.jp/business/spv/2305/02/news131.html"
-        ]
+        ],
+        "start": 88.02
       }
     ],
     "audio": "audio/tsukiji-namiyoke-inari.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 124.6
   },
   {
     "id": "tsukiji-shinkiraku",
@@ -2263,7 +2274,8 @@
         "text": "這棟很低調的木造建築，是老字號料亭「新喜樂」。你只能從外面看，裡面不是一般觀光客進得去的。\n它是一八七五年，由一位叫伊藤金的女性在日本橋茅場町開的，當時店名叫「喜樂」。一八九八年搬到這裡，這塊地以前是大隈重信的宅邸，改名「新喜樂」。\n關東大地震把房子燒掉了。後來從一九四〇年開始，建築師吉田五十八一點一點地重新設計、改修，才變成現在銅屋頂、木造兩層樓的數寄屋建築，裡面還有七十二張榻榻米大的大廣間。\n這間店的經營方針很硬：不開分店、不打廣告、每天都當作開幕日、無聲的款待。而且以口風很緊出名，所以政界、財經界、文化界的大人物都愛來。據說伊藤博文就是常客，因為老闆娘跟他同姓伊藤。庭院裡還有一塊石碑，刻著伊藤博文送給老闆娘的漢詩。\n這裡也發生過真實的歷史事件。一九七五年五月，剛拿到諾貝爾和平獎的前總理佐藤榮作在這裡跟政商界人士聚會，喝得很開心，站起來之後就倒下了。後來查出是腦出血，同年六月三日過世。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%96%9C%E6%A5%BD"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "gossip",
@@ -2272,13 +2284,15 @@
           "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%96%9C%E6%A5%BD",
           "https://bunshun.jp/articles/-/42957",
           "https://bunshun.jp/articles/-/68486?page=2"
-        ]
+        ],
+        "start": 70.87
       }
     ],
     "audio": "audio/tsukiji-shinkiraku.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 120.7
   },
   {
     "id": "tsukiji-shogekijo",
@@ -2300,13 +2314,15 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E7%AF%89%E5%9C%B0%E5%B0%8F%E5%8A%87%E5%A0%B4",
           "https://artscape.jp/artword/6322/"
-        ]
+        ],
+        "start": 0.0
       }
     ],
     "audio": "audio/tsukiji-shogekijo.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 98.4
   },
   {
     "id": "hamarikyu-garden",
@@ -2328,14 +2344,16 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%9B%A2%E5%AE%AE%E6%81%A9%E8%B3%9C%E5%BA%AD%E5%9C%92",
           "https://www.kensetsu.metro.tokyo.lg.jp/content/000027750.pdf"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "history",
         "text": "明治以後，這裡改叫「濱離宮」，變成皇室的離宮，也是接待外國貴賓的地方。園內蓋了一棟「延遼館」，據說是日本第一棟西式石造建築，不過其實只有牆壁是石頭，屋頂還是瓦片。\n最有名的一位客人，是美國前總統格蘭特。一八七九年他環遊世界來到日本，八月十日明治天皇親自來到濱離宮，在池子中間的中島茶屋和他聊了兩個小時，這場會面後來還被畫成畫。\n可惜一九四四年的空襲，讓園內的茶屋全部燒掉了。一九四五年十一月，皇室把濱離宮賜給東京都，這就是名字裡「恩賜」兩個字的由來。\n現在看到的茶屋都是後來重建的：中島的御茶屋是一九八三年，松之御茶屋二〇一〇年，燕之御茶屋二〇一五年，鷹之御茶屋二〇一八年。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%9B%A2%E5%AE%AE%E6%81%A9%E8%B3%9C%E5%BA%AD%E5%9C%92"
-        ]
+        ],
+        "start": 82.55
       },
       {
         "kind": "gossip",
@@ -2343,13 +2361,15 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B5%9C%E9%9B%A2%E5%AE%AE%E6%81%A9%E8%B3%9C%E5%BA%AD%E5%9C%92",
           "https://www.kensetsu.metro.tokyo.lg.jp/content/000027750.pdf"
-        ]
+        ],
+        "start": 128.0
       }
     ],
     "audio": "audio/hamarikyu-garden.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 179.4
   },
   {
     "id": "hamarikyu-old-shimbashi-station",
@@ -2370,13 +2390,15 @@
         "text": "你現在看到這棟白色的洋風小車站，就是日本鐵路的起點：舊新橋停車場。\n一八七二年十月十四日，日本第一條鐵路在這裡開通，從新橋到橫濱。當時的車站叫新橋站，是英國人設計的木造外貼石材兩層樓西式建築。開通那天只有典禮和明治天皇搭的專用列車，正式營業是隔天。\n一九〇〇年的《鐵道唱歌》第一句就是「汽笛一聲新橋」，火車從新橋出發。\n可是一九一四年東京車站開業，客運功能全部搬過去，這裡就改名叫「汐留站」，變成貨運站。原本附近一個叫烏森站的電車站，反而改名成新橋站，就是你等一下會到的那個新橋。\n一九二三年關東大地震，初代車站燒掉了。汐留貨運站一直用到一九八六年才廢止，後來這一大片土地重新開發，就是你背後那一排汐留的高樓。\n開發工程時挖出了當年的車站遺跡，還有鑄造工場和廁所的遺構。為了保護遺跡又把它埋回去，二〇〇三年在上面照開業當時的樣子重建了車站，就是現在這一棟，裡面有鐵道歷史展示室。\n車站後面還有一個「零哩標」和一段三公尺的鐵軌，標示當年鋪鐵路時第一根測量樁打下的位置。可以繞過去看一下，這裡就是日本鐵路的零公里。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B1%90%E7%95%99%E9%A7%85_(%E5%9B%BD%E9%89%84)"
-        ]
+        ],
+        "start": 0.0
       }
     ],
     "audio": "audio/hamarikyu-old-shimbashi-station.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 72.1
   },
   {
     "id": "shimbashi-sl-square",
@@ -2398,7 +2420,8 @@
         "sources": [
           "https://www.city.minato.tokyo.jp/kouhou/kuse/koho/konjaku/konjaku06.html",
           "https://tabi-mag.jp/tk1691/"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "gossip",
@@ -2406,13 +2429,15 @@
         "sources": [
           "https://www.city.minato.tokyo.jp/kouhou/kuse/koho/konjaku/konjaku06.html",
           "https://tabi-mag.jp/tk1691/"
-        ]
+        ],
+        "start": 63.05
       }
     ],
     "audio": "audio/shimbashi-sl-square.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 104.5
   },
   {
     "id": "shimbashi-karasumori-jinja",
