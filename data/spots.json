@@ -1310,8 +1310,8 @@
       }
     ],
     "audio": "audio/kawagoe-yaoko-museum.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kawagoe-yaoko-museum.webp",
+    "photo_credit": "QBK / CC0 / https://commons.wikimedia.org/wiki/File:Yaoko_Kawagoe_Museum_aka_Yuji_Misu_Memorial_Hall.jpg",
     "verified": false,
     "duration": 78.7,
     "photo_source": "Yaoko_Kawagoe_Museum_aka_Yuji_Misu_Memorial_Hall.jpg"
@@ -1358,8 +1358,8 @@
       }
     ],
     "audio": "audio/kamakura-komachi-dori.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kamakura-komachi-dori.webp",
+    "photo_credit": "Σ64 / GFDL / https://commons.wikimedia.org/wiki/File:Komachi_Street%2C_Kanagawa_02.jpg",
     "verified": false,
     "duration": 108.9,
     "photo_source": "Komachi_Street,_Kanagawa_02.jpg"
@@ -1454,8 +1454,8 @@
       }
     ],
     "audio": "audio/kamakura-daibutsu.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kamakura-daibutsu.webp",
+    "photo_credit": "663highland / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:230128_Kamakura_Daibutsu_Japan01s3.jpg",
     "verified": false,
     "duration": 123.6,
     "photo_source": "230128_Kamakura_Daibutsu_Japan01s3.jpg"
@@ -1502,8 +1502,8 @@
       }
     ],
     "audio": "audio/kamakura-hasedera.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kamakura-hasedera.webp",
+    "photo_credit": "Junichi / GFDL / https://commons.wikimedia.org/wiki/File:Kamakura_Hasedera_Kannondou.jpg",
     "verified": false,
     "duration": 116.7,
     "photo_source": "Kamakura_Hasedera_Kannondou.jpg"
@@ -1550,8 +1550,8 @@
       }
     ],
     "audio": "audio/kamakura-goryo-jinja.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kamakura-goryo-jinja.webp",
+    "photo_credit": "Ocdp / CC0 / https://commons.wikimedia.org/wiki/File:Goryou_jinnja_002.jpg",
     "verified": false,
     "duration": 86.8,
     "photo_source": "Goryou_jinnja_002.jpg"
@@ -1596,8 +1596,8 @@
       }
     ],
     "audio": "audio/kamakura-amanawa-shinmei.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kamakura-amanawa-shinmei.webp",
+    "photo_credit": "Twkz0731 / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:Amanawa_Shinmei-Jinja_Hase_Kamakura%2C_Worship_hall_%282016-01-22%29.jpg",
     "verified": false,
     "duration": 79.1,
     "photo_source": "Amanawa_Shinmei-Jinja_Hase_Kamakura,_Worship_hall_(2016-01-22).jpg"
@@ -1642,8 +1642,8 @@
       }
     ],
     "audio": "audio/kamakura-museum-of-literature.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kamakura-museum-of-literature.webp",
+    "photo_credit": "663highland / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:230128_Kamakura_Museum_of_Literature_Kamakura_Kanagawa_pref_Japan01s3.jpg",
     "verified": false,
     "photo_source": "230128_Kamakura_Museum_of_Literature_Kamakura_Kanagawa_pref_Japan01s3.jpg",
     "duration": 67.5
@@ -1692,8 +1692,8 @@
       }
     ],
     "audio": "audio/kamakura-koko-mae-crossing.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/kamakura-koko-mae-crossing.webp",
+    "photo_credit": "Quercus acuta / CC0 / https://commons.wikimedia.org/wiki/File:Kamakura-Koko-Mae_Station.jpg",
     "verified": false,
     "photo_source": "Kamakura-Koko-Mae_Station.jpg",
     "duration": 102.3
@@ -1738,8 +1738,8 @@
       }
     ],
     "audio": "audio/enoshima-island.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/enoshima-island.webp",
+    "photo_credit": "Quercus acuta / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:Enoshima_view_from_Kugenuma_beach.jpg",
     "verified": false,
     "photo_source": "Enoshima_view_from_Kugenuma_beach.jpg",
     "duration": 128.4
@@ -1786,8 +1786,8 @@
       }
     ],
     "audio": "audio/enoshima-jinja.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/enoshima-jinja.webp",
+    "photo_credit": "Aimaimyi / GFDL / https://commons.wikimedia.org/wiki/File:Enoshimajinja_-05.jpg",
     "verified": false,
     "photo_source": "Enoshimajinja_-05.jpg",
     "duration": 146.4
@@ -1925,8 +1925,8 @@
       }
     ],
     "audio": "audio/enoshima-iwamotoro.mp3",
-    "photo": null,
-    "photo_credit": null,
+    "photo": "photos/enoshima-iwamotoro.webp",
+    "photo_credit": "English: Abasaa 日本語: あばさー / Public domain / https://commons.wikimedia.org/wiki/File:Iwamotoro.JPG",
     "verified": false,
     "photo_source": "Iwamotoro.JPG",
     "duration": 69.2
@@ -2459,7 +2459,8 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E7%83%8F%E6%A3%AE%E7%A5%9E%E7%A4%BE",
           "https://www.gltjp.com/ja/directory/item/17240/"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "gossip",
@@ -2468,13 +2469,15 @@
           "https://ja.wikipedia.org/wiki/%E7%83%8F%E6%A3%AE%E7%A5%9E%E7%A4%BE",
           "https://tabi-mag.jp/tk1584/",
           "https://4travel.jp/dm_shisetsu_tips/13595211"
-        ]
+        ],
+        "start": 74.7
       }
     ],
     "audio": "audio/shimbashi-karasumori-jinja.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 126.4
   },
   {
     "id": "shimbashi-shinshodo",
@@ -2496,20 +2499,23 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%AD%A3%E5%A0%82",
           "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%A9%82%E4%BA%8B%E4%BB%B6"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "gossip",
         "text": "結果這個不吉利的名字，反而大賣。\n因為日本上班族闖了禍要去跟客戶道歉時，會帶著切腹最中當伴手禮，意思是「我已經準備好切腹謝罪了」。帶這個去道歉，對方看了可能氣也消了一半。新橋又是上班族的大本營，這招就這樣紅起來了。\n二〇一七年的電影《勝手にふるえてろ》，裡面松岡茉優演的女主角在公寓弄出小火災，跟鄰居道歉時發的也是這個切腹最中。\n不過說句公道話，歷史上的田村家其實很受朝廷稱讚，但據記載他們把淺野當犯人一樣嚴格對待，戲劇裡也照這樣演，所以在忠臣藏迷心中形象不太好。\n店裡還有「景氣上升最中」「出世的石階」這些名字很討喜的點心。提醒一下，週日和國定假日公休，星期六只開到下午五點。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%AD%A3%E5%A0%82"
-        ]
+        ],
+        "start": 45.38
       }
     ],
     "audio": "audio/shimbashi-shinshodo.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 95.3
   },
   {
     "id": "shimbashi-suegen",
@@ -2531,20 +2537,23 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%9C%AB%E3%81%92%E3%82%93",
           "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B3%B6%E4%BA%8B%E4%BB%B6"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "gossip",
         "text": "還有一個比較浪漫的八卦。\n三島由紀夫在一九五四年夏天到一九五七年左右，跟一位叫豐田貞子的女性交往過。據說他們也一起來過這間店，而且兩個人就是在這裡第一次接吻。\n所以這間店對三島來說，是初吻的地方，也是最後晚餐的地方。\n這裡是要預約的正式餐廳，路過看看門口就好。接下來往新橋站走，搭都營淺草線去人形町。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%9C%AB%E3%81%92%E3%82%93"
-        ]
+        ],
+        "start": 58.51
       }
     ],
     "audio": "audio/shimbashi-suegen.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 84.7
   },
   {
     "id": "shimbashi-hibiya-jinja",
@@ -2565,14 +2574,16 @@
         "text": "這間小小的神社叫日比谷神社。你可能會想：日比谷不是在皇居旁邊嗎？怎麼跑到新橋來了？\n因為它是一間一直在搬家的神社。它最早在現在日比谷公園裡的大塚山。江戸時代初期，江戸城要擴建，它就跟著信徒一起搬到芝口，就是現在的東新橋。到了明治時代，要鋪東海道線的鐵路，它又搬到新橋四丁目。結果那塊地又剛好在道路計畫的範圍內，所以二〇〇九年又搬到現在這裡，第一京濱國道旁邊。\n它還有一個很好笑的別名，叫「鯖稻荷」，鯖魚的鯖。\n據說它還在大塚山的時候，把社務所開放給生病的旅人，讓他們祈求無病消災，結果很靈驗，大家就叫它「旅泊稻荷」。「旅泊」在日文裡的讀音跟「鯖」一樣，都念 saba。\n搬到新橋以後，就乾脆寫成鯖魚的鯖了。然後又衍生出一個習俗：牙痛的人只要戒吃鯖魚，來這裡祈求，牙痛就會好，好了之後要奉納鯖魚答謝。\n所以神社的名字一路從「旅泊」變成「鯖魚」，連保佑的東西都從旅人變成了牙齒，這也太會轉彎了。\n另外，它跟烏森神社的大祭是隔年輪流辦的，不過兩間神社守護的地區沒有重疊。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%AF%94%E8%B0%B7%E7%A5%9E%E7%A4%BE"
-        ]
+        ],
+        "start": 0.0
       }
     ],
     "audio": "audio/shimbashi-hibiya-jinja.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "Hibiya_jinja(Higashi-Shinbashi,_Minato)_01.jpg"
+    "photo_source": "Hibiya_jinja(Higashi-Shinbashi,_Minato)_01.jpg",
+    "duration": 72.9
   },
   {
     "id": "ningyocho-amazake-yokocho",
@@ -2595,7 +2606,8 @@
           "https://ja.wikipedia.org/wiki/%E7%94%98%E9%85%92%E6%A8%AA%E4%B8%81",
           "https://matcha-jp.com/jp/4935",
           "https://smtrc.jp/town-archives/city/nihombashi/p07.html"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "gossip",
@@ -2604,13 +2616,15 @@
           "https://tabi-mag.jp/tk0153/",
           "https://tabelog.com/matome/28179/",
           "https://aumo.jp/articles/51138"
-        ]
+        ],
+        "start": 59.7
       }
     ],
     "audio": "audio/ningyocho-amazake-yokocho.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 86.1
   },
   {
     "id": "ningyocho-suitengu",
@@ -2632,7 +2646,8 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%A4%A9%E5%AE%AE_(%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA)",
           "https://tabi-mag.jp/nasakearimano"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -2641,14 +2656,16 @@
           "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%A4%A9%E5%AE%AE_(%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA)",
           "https://tabi-mag.jp/nasakearimano",
           "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%BE%B3%E5%A4%A9%E7%9A%87"
-        ]
+        ],
+        "start": 84.95
       }
     ],
     "audio": "audio/ningyocho-suitengu.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "Haiden,_Suiten-gū_1_(cropped).jpg"
+    "photo_source": "Haiden,_Suiten-gū_1_(cropped).jpg",
+    "duration": 129.1
   },
   {
     "id": "ningyocho-koami-jinja",
@@ -2669,7 +2686,8 @@
         "text": "這間被大樓夾在中間的小神社，就是最近超紅的小網神社，週末排隊可能排到外面去。\n傳說這裡原本是平安時代高僧惠心僧都源信的草庵。一四六六年疫病流行，有一位拿著稻穗的老人來草庵住了幾天。某天晚上，草庵的主人夢到惠心僧都說：「把這位老人當作稻荷神來拜，疫病就會退散。」隔天早上老人就不見了。大家馬上蓋了稻荷神社，疫病也真的平息了。\n現在的社殿和神樂殿是一九二九年重建的，由參與明治神宮建造的宮大工團隊打造，屋簷下有「昇龍」和「降龍」的雕刻，是中央區的文化財，記得抬頭看。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%B6%B2%E7%A5%9E%E7%A4%BE"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
@@ -2678,13 +2696,15 @@
           "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%B6%B2%E7%A5%9E%E7%A4%BE",
           "https://www.asoview.com/note/2945/",
           "https://co-trip.jp/article/565590"
-        ]
+        ],
+        "start": 44.44
       }
     ],
     "audio": "audio/ningyocho-koami-jinja.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 99.4
   },
   {
     "id": "ningyocho-chanoki-jinja",
@@ -2706,13 +2726,15 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E8%8C%B6%E3%83%8E%E6%9C%A8%E7%A5%9E%E7%A4%BE",
           "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%B8%83%E7%A6%8F%E7%A5%9E"
-        ]
+        ],
+        "start": 0.0
       }
     ],
     "audio": "audio/ningyocho-chanoki-jinja.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 51.4
   },
   {
     "id": "ningyocho-matsushima-jinja",
@@ -2734,13 +2756,15 @@
         "sources": [
           "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B3%B6%E7%A5%9E%E7%A4%BE",
           "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%B8%83%E7%A6%8F%E7%A5%9E"
-        ]
+        ],
+        "start": 0.0
       }
     ],
     "audio": "audio/ningyocho-matsushima-jinja.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 44.2
   },
   {
     "id": "ningyocho-suehiro-jinja",
@@ -2763,13 +2787,15 @@
           "https://ja.wikipedia.org/wiki/%E6%9C%AB%E5%BB%A3%E7%A5%9E%E7%A4%BE_(%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA)",
           "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%B8%83%E7%A6%8F%E7%A5%9E",
           "https://ja.wikipedia.org/wiki/%E5%90%89%E5%8E%9F%E9%81%8A%E5%BB%93"
-        ]
+        ],
+        "start": 0.0
       }
     ],
     "audio": "audio/ningyocho-suehiro-jinja.mp3",
     "photo": null,
     "photo_credit": null,
-    "verified": false
+    "verified": false,
+    "duration": 55.7
   },
   {
     "id": "ningyocho-okannonji",
@@ -2790,21 +2816,24 @@
         "text": "人形町巷子裡的這間大觀音寺，本尊很不一樣：是一顆只有頭的鐵製觀音像。\n它原本在鎌倉一間叫新清水寺的寺廟裡，現在那間寺已經不在了。一二五八年寺廟失火，觀音像倒塌。後來有人挖井的時候，挖出了一顆只剩頭的鐵觀音，就把它供奉在小堂裡。那口井也因此被叫做「鐵之井」。\n到了明治時代，決定把這顆鐵觀音頭搬到東京，先蓋了臨時的堂，這就是大觀音寺的起源。\n它跟淺草寺是本寺和末寺的關係，一九五〇年淺草寺創立「聖觀音宗」時，這裡也跟著從天台宗改成聖觀音宗。等一下我們就要去淺草寺了，剛好連起來。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A6%B3%E9%9F%B3%E5%AF%BA_(%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA)"
-        ]
+        ],
+        "start": 0.0
       },
       {
         "kind": "legend",
         "text": "這裡還有一個神奇的故事。\n二〇一一年三月十一日東日本大地震那天，本來正面朝前的鐵觀音頭，被發現稍微轉向了右邊，也就是正東方。可是其他的佛像和佛具，一個都沒有倒。\n大家覺得很不可思議，就叫它「平成的不思議顯現」。從那之後，原本只在每個月十七日開放參拜，又加開了每個月十一日。\n今天是二十三日，所以應該看不到本尊，從外面合掌拜一下就好。",
         "sources": [
           "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A6%B3%E9%9F%B3%E5%AF%BA_(%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA)"
-        ]
+        ],
+        "start": 45.52
       }
     ],
     "audio": "audio/ningyocho-okannonji.mp3",
     "photo": null,
     "photo_credit": null,
     "verified": false,
-    "photo_source": "Ningyocho_Okannon-ji_02.jpg"
+    "photo_source": "Ningyocho_Okannon-ji_02.jpg",
+    "duration": 74.9
   },
   {
     "id": "asakusa-kaminarimon",
